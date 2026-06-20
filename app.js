@@ -1,9 +1,13 @@
 const cards = Array.isArray(window.ROLEPLAY_CARDS) ? window.ROLEPLAY_CARDS : [];
 
+cards.forEach((card) => {
+  card.collection = card.collection || "Original Library";
+  card.group = card.group || card.pack || "Unsorted";
+  card.status = card.status || "scripted";
+});
+
 const els = {
   searchInput: document.querySelector("#searchInput"),
-  filterGroup: document.querySelector(".filter-group"),
-  statusToggle: document.querySelector(".status-toggle"),
   cardCount: document.querySelector("#cardCount"),
   scriptedCount: document.querySelector("#scriptedCount"),
   cardList: document.querySelector("#cardList"),
@@ -28,8 +32,6 @@ function getInitialAudioRate() {
 
 const state = {
   query: "",
-  pack: "All",
-  status: "all",
   selectedId: cards[0] ? cards[0].id : null,
   versionIndex: 0,
   mode: "all",
@@ -38,6 +40,7 @@ const state = {
   audioRate: getInitialAudioRate(),
   lineStopAt: null,
   activeLineIndex: null,
+  openCollections: new Set(["Original Library", "Practical Training"]),
   openPacks: new Set()
 };
 
@@ -50,22 +53,16 @@ function escapeHtml(value) {
     .replaceAll("'", "&#039;");
 }
 
-function unique(values) {
-  return Array.from(new Set(values.filter(Boolean)));
-}
-
 function normalize(value) {
   return String(value || "").toLowerCase();
-}
-
-function getPacks() {
-  return unique(cards.map((card) => card.pack));
 }
 
 function getSearchText(card) {
   return [
     card.id,
+    card.collection,
     card.pack,
+    card.group,
     card.place,
     card.situation,
     card.person,
@@ -83,10 +80,8 @@ function getFilteredCards() {
   const query = normalize(state.query).trim();
 
   return cards.filter((card) => {
-    const matchesPack = state.pack === "All" || card.pack === state.pack;
-    const matchesStatus = state.status === "all" || card.status === state.status;
     const matchesQuery = !query || normalize(getSearchText(card)).includes(query);
-    return matchesPack && matchesStatus && matchesQuery;
+    return matchesQuery;
   });
 }
 
@@ -105,61 +100,81 @@ function ensureSelectedCardVisible() {
   }
 }
 
-function renderPackFilters() {
-  const packButtons = [
-    '<button class="filter-button" type="button" data-pack="All">All</button>',
-    ...getPacks().map(
-      (pack) =>
-        `<button class="filter-button" type="button" data-pack="${escapeHtml(pack)}">${escapeHtml(pack.replace(" Pack", ""))}</button>`
-    )
-  ];
-
-  els.filterGroup.innerHTML = packButtons.join("");
-}
-
 function renderStats(filtered) {
-  const scriptedTotal = cards.filter((card) => card.status === "scripted").length;
   els.cardCount.textContent = `${filtered.length} shown`;
-  els.scriptedCount.textContent = `${scriptedTotal} scripted`;
+  els.scriptedCount.textContent = `${cards.length} total`;
 }
 
 function renderCardList(filtered) {
   if (!filtered.length) {
-    els.cardList.innerHTML = '<div class="empty-state">No cards match the current filters.</div>';
+    els.cardList.innerHTML = '<div class="empty-state">No scripts match your search.</div>';
     return;
   }
 
-  const groups = groupCardsByPack(filtered);
+  const collections = groupCardsByCollection(filtered);
 
-  els.cardList.innerHTML = groups
-    .map(({ pack, cards: groupCards }) => {
-      const shouldOpen = state.query.trim() || state.pack !== "All" || state.openPacks.has(pack);
-      const scriptedCount = groupCards.filter((card) => card.status === "scripted").length;
-
-      return `
-        <section class="pack-group${shouldOpen ? " is-open" : ""}" data-pack-group="${escapeHtml(pack)}">
-          <button class="pack-summary" type="button" data-pack-toggle="${escapeHtml(pack)}" aria-expanded="${shouldOpen ? "true" : "false"}">
-            <span class="pack-name">${escapeHtml(pack.replace(" Pack", ""))}</span>
-            <span class="pack-count">${groupCards.length} cards · ${scriptedCount} scripted</span>
-          </button>
-          ${shouldOpen ? `<div class="pack-cards">${groupCards.map(renderCardListButton).join("")}</div>` : ""}
-        </section>
-      `;
-    })
-    .join("");
+  els.cardList.innerHTML = collections.map(renderCollectionGroup).join("");
 }
 
-function groupCardsByPack(cardList) {
+function renderCollectionGroup(collection) {
+  const shouldOpen = state.query.trim() || state.openCollections.has(collection.name);
+  const groups = groupCardsByGroup(collection.cards);
+
+  return `
+    <section class="collection-group${shouldOpen ? " is-open" : ""}" data-collection-group="${escapeHtml(collection.name)}">
+      <button class="collection-summary" type="button" data-collection-toggle="${escapeHtml(collection.name)}" aria-expanded="${shouldOpen ? "true" : "false"}">
+        <span class="collection-name">${escapeHtml(collection.name)}</span>
+        <span class="collection-count">${collection.cards.length} scripts</span>
+      </button>
+      ${shouldOpen ? `<div class="collection-sections">${groups.map((group) => renderPlaceGroup(collection.name, group)).join("")}</div>` : ""}
+    </section>
+  `;
+}
+
+function renderPlaceGroup(collectionName, group) {
+  const groupKey = `${collectionName}::${group.name}`;
+  const shouldOpen = state.query.trim() || state.openPacks.has(groupKey);
+
+  return `
+    <section class="pack-group${shouldOpen ? " is-open" : ""}" data-pack-group="${escapeHtml(groupKey)}">
+      <button class="pack-summary" type="button" data-pack-toggle="${escapeHtml(groupKey)}" aria-expanded="${shouldOpen ? "true" : "false"}">
+        <span class="pack-name">${escapeHtml(group.name.replace(" Pack", ""))}</span>
+        <span class="pack-count">${group.cards.length} scripts</span>
+      </button>
+      ${shouldOpen ? `<div class="pack-cards">${group.cards.map(renderCardListButton).join("")}</div>` : ""}
+    </section>
+  `;
+}
+
+function groupCardsByCollection(cardList) {
   const groups = [];
-  const byPack = new Map();
+  const byCollection = new Map();
 
   cardList.forEach((card) => {
-    if (!byPack.has(card.pack)) {
-      byPack.set(card.pack, []);
-      groups.push({ pack: card.pack, cards: byPack.get(card.pack) });
+    if (!byCollection.has(card.collection)) {
+      byCollection.set(card.collection, []);
+      groups.push({ name: card.collection, cards: byCollection.get(card.collection) });
     }
 
-    byPack.get(card.pack).push(card);
+    byCollection.get(card.collection).push(card);
+  });
+
+  return groups;
+}
+
+function groupCardsByGroup(cardList) {
+  const groups = [];
+  const byGroup = new Map();
+
+  cardList.forEach((card) => {
+    const groupName = card.group || card.pack || "Unsorted";
+
+    if (!byGroup.has(groupName)) {
+      byGroup.set(groupName, []);
+      groups.push({ name: groupName, cards: byGroup.get(groupName) });
+    }
+
+    byGroup.get(groupName).push(card);
   });
 
   return groups;
@@ -167,6 +182,9 @@ function groupCardsByPack(cardList) {
 
 function renderCardListButton(card) {
   const isActive = card.id === state.selectedId ? " is-active" : "";
+  const summary = card.collection === "Practical Training"
+    ? card.situation
+    : `${card.person} · ${card.dayType || card.pack}`;
 
   return `
     <button class="card-list-button${isActive}" type="button" data-card-id="${escapeHtml(card.id)}">
@@ -174,9 +192,8 @@ function renderCardListButton(card) {
       <span>
         <span class="card-title-line">
           <span class="card-place">${escapeHtml(card.place)}</span>
-          <span class="status-pill ${escapeHtml(card.status)}">${escapeHtml(card.status)}</span>
         </span>
-        <p class="card-summary">${escapeHtml(card.person)} · ${escapeHtml(card.dayType || card.pack)}</p>
+        <p class="card-summary">${escapeHtml(summary)}</p>
       </span>
     </button>
   `;
@@ -213,7 +230,8 @@ function renderDetail() {
       <div class="detail-heading">
         <div class="detail-kicker">
           <span>Roleplay Card ${escapeHtml(card.id)}</span>
-          <span class="status-pill ${escapeHtml(card.status)}">${escapeHtml(card.status)}</span>
+          <span>${escapeHtml(card.collection)}</span>
+          <span>${escapeHtml(card.group)}</span>
           <span>${escapeHtml(card.pack)}</span>
         </div>
         <h2>${escapeHtml(card.place)}</h2>
@@ -252,7 +270,7 @@ function renderScript(card, version) {
         <h3>${escapeHtml(version.title)}</h3>
         <span>${escapeHtml(card.length)}</span>
       </div>
-      ${renderAudioPlayer(card)}
+      ${card.audio === false ? "" : renderAudioPlayer(card)}
       <div class="dialogue">
         ${(version.lines || []).map(renderLine).join("")}
       </div>
@@ -415,7 +433,6 @@ function renderExpressionItem(expression) {
 }
 
 function renderAll() {
-  renderPackFilters();
   ensureSelectedCardVisible();
 
   const filtered = getFilteredCards();
@@ -425,7 +442,7 @@ function renderAll() {
 
   if (!filtered.length) {
     els.cardDetail.innerHTML =
-      '<div class="empty-state">No card is selected. Clear the search or change filters.</div>';
+      '<div class="empty-state">No script is selected. Clear the search to see the full library.</div>';
     updateTimerDisplay();
     return;
   }
@@ -435,14 +452,6 @@ function renderAll() {
 }
 
 function updateActiveButtons() {
-  document.querySelectorAll(".filter-button").forEach((button) => {
-    button.classList.toggle("is-active", button.dataset.pack === state.pack);
-  });
-
-  document.querySelectorAll(".status-button").forEach((button) => {
-    button.classList.toggle("is-active", button.dataset.status === state.status);
-  });
-
   document.querySelectorAll(".mode-button").forEach((button) => {
     button.classList.toggle("is-active", button.dataset.mode === state.mode);
   });
@@ -716,6 +725,8 @@ function getCurrentScriptText() {
 
   return [
     `Roleplay Card ${card.id}`,
+    `Collection: ${card.collection}`,
+    `Group: ${card.group}`,
     `Place: ${card.place}`,
     `Situation: ${card.situation}`,
     `Person: ${card.person}`,
@@ -759,34 +770,26 @@ els.searchInput.addEventListener("input", (event) => {
   renderAll();
 });
 
-els.filterGroup.addEventListener("click", (event) => {
-  const button = event.target.closest("[data-pack]");
-  if (!button) {
-    return;
-  }
-
-  state.pack = button.dataset.pack;
-  renderAll();
-});
-
-els.statusToggle.addEventListener("click", (event) => {
-  const button = event.target.closest("[data-status]");
-  if (!button) {
-    return;
-  }
-
-  state.status = button.dataset.status;
-  renderAll();
-});
-
 els.cardList.addEventListener("click", (event) => {
+  const collectionButton = event.target.closest("[data-collection-toggle]");
+  if (collectionButton) {
+    const collection = collectionButton.dataset.collectionToggle;
+    if (state.openCollections.has(collection)) {
+      state.openCollections.delete(collection);
+    } else {
+      state.openCollections.add(collection);
+    }
+    renderAll();
+    return;
+  }
+
   const toggleButton = event.target.closest("[data-pack-toggle]");
   if (toggleButton) {
-    const pack = toggleButton.dataset.packToggle;
-    if (state.openPacks.has(pack)) {
-      state.openPacks.delete(pack);
+    const groupKey = toggleButton.dataset.packToggle;
+    if (state.openPacks.has(groupKey)) {
+      state.openPacks.delete(groupKey);
     } else {
-      state.openPacks.add(pack);
+      state.openPacks.add(groupKey);
     }
     renderAll();
     return;

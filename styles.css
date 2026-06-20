@@ -140,8 +140,6 @@ input:focus-visible {
   color: var(--ink);
 }
 
-.filter-group,
-.status-toggle,
 .mode-tabs,
 .nav-actions,
 .timer-box {
@@ -151,8 +149,6 @@ input:focus-visible {
   align-items: center;
 }
 
-.filter-button,
-.status-button,
 .mode-button,
 .nav-actions button,
 .timer-box button {
@@ -161,8 +157,6 @@ input:focus-visible {
   font-weight: 700;
 }
 
-.filter-button.is-active,
-.status-button.is-active,
 .mode-button.is-active {
   border-color: transparent;
   background: var(--teal);
@@ -189,12 +183,18 @@ input:focus-visible {
   padding-right: 6px;
 }
 
+.collection-group,
 .pack-group {
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background: rgba(255, 255, 255, 0.72);
 }
 
+.collection-group {
+  background: rgba(255, 253, 248, 0.9);
+}
+
+.collection-summary,
 .pack-summary {
   display: grid;
   grid-template-columns: 20px minmax(0, 1fr) auto;
@@ -211,16 +211,19 @@ input:focus-visible {
   text-align: left;
 }
 
+.collection-summary::-webkit-details-marker,
 .pack-summary::-webkit-details-marker {
   display: none;
 }
 
+.collection-summary:hover,
 .pack-summary:hover {
   border-color: transparent;
   background: #f7f3eb;
   transform: none;
 }
 
+.collection-summary::before,
 .pack-summary::before {
   content: "+";
   display: inline-grid;
@@ -234,10 +237,16 @@ input:focus-visible {
   font-weight: 900;
 }
 
+.collection-group.is-open .collection-summary::before,
 .pack-group.is-open .pack-summary::before {
   content: "-";
 }
 
+.collection-group.is-open > .collection-summary {
+  border-bottom: 1px solid var(--line);
+}
+
+.collection-name,
 .pack-name {
   overflow: hidden;
   font-size: 0.92rem;
@@ -246,11 +255,24 @@ input:focus-visible {
   white-space: nowrap;
 }
 
+.collection-name {
+  color: var(--teal);
+  font-size: 0.98rem;
+  text-transform: uppercase;
+}
+
+.collection-count,
 .pack-count {
   color: var(--muted);
   font-size: 0.74rem;
   font-weight: 800;
   white-space: nowrap;
+}
+
+.collection-sections {
+  display: grid;
+  gap: 8px;
+  padding: 8px;
 }
 
 .pack-cards {
@@ -297,7 +319,6 @@ input:focus-visible {
   display: block;
   align-items: start;
   margin-bottom: 6px;
-  padding-right: 76px;
 }
 
 .card-place {
