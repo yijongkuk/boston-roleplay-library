@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 49.819,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Receptionist",
+      "text": "Clinic front desk. How can I help you?",
+      "start": 0,
+      "end": 3.257
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Hi, I'd like to make an appointment. I'm not feeling well.",
+      "start": 3.677,
+      "end": 8.243
+    },
+    {
+      "index": 2,
+      "speaker": "Receptionist",
+      "text": "What symptoms are you having?",
+      "start": 8.663,
+      "end": 11.186
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "I've had a fever and a sore throat since yesterday, and it's getting worse.",
+      "start": 11.606,
+      "end": 16.361
+    },
+    {
+      "index": 4,
+      "speaker": "Receptionist",
+      "text": "Do you have insurance?",
+      "start": 16.781,
+      "end": 19.398
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Yes, through my university. I can bring the card or upload it if needed.",
+      "start": 19.818,
+      "end": 25.013
+    },
+    {
+      "index": 6,
+      "speaker": "Receptionist",
+      "text": "We have an opening tomorrow at 10:30.",
+      "start": 25.433,
+      "end": 28.586
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "That works. Is there anything I should bring besides my insurance card and ID?",
+      "start": 29.006,
+      "end": 33.279
+    },
+    {
+      "index": 8,
+      "speaker": "Receptionist",
+      "text": "Bring a list of medications you're taking.",
+      "start": 33.699,
+      "end": 36.662
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Okay. If my symptoms get worse tonight, should I go to urgent care?",
+      "start": 37.082,
+      "end": 41.502
+    },
+    {
+      "index": 10,
+      "speaker": "Receptionist",
+      "text": "Yes, especially if you have trouble breathing or a high fever.",
+      "start": 41.922,
+      "end": 46.97
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Understood. Thank you for your help.",
+      "start": 47.39,
+      "end": 49.819
+    }
+  ]
+}

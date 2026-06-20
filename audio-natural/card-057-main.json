@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 50.585,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Leader",
+      "text": "Before we start, let's do quick introductions.",
+      "start": 0,
+      "end": 3.058
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Sure. I'm Jongkuk. I just moved to Boston from Korea.",
+      "start": 3.478,
+      "end": 7.751
+    },
+    {
+      "index": 2,
+      "speaker": "Leader",
+      "text": "Welcome. What brought you here?",
+      "start": 8.171,
+      "end": 10.359
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "I'm starting a PhD program in architecture, so I'm in a big season of transition.",
+      "start": 10.779,
+      "end": 15.534
+    },
+    {
+      "index": 4,
+      "speaker": "Member",
+      "text": "How has the first week been?",
+      "start": 15.954,
+      "end": 18.236
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Honestly, a mix of excitement and mental overload.",
+      "start": 18.656,
+      "end": 21.715
+    },
+    {
+      "index": 6,
+      "speaker": "Leader",
+      "text": "That's a very real answer.",
+      "start": 22.135,
+      "end": 24.323
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "I'm grateful to be here, but I'm also trying to rebuild basic routines - sleep, food, church, community.",
+      "start": 24.743,
+      "end": 33.573
+    },
+    {
+      "index": 8,
+      "speaker": "Member",
+      "text": "That makes sense.",
+      "start": 33.993,
+      "end": 35.647
+    },
+    {
+      "index": 9,
+      "speaker": "Leader",
+      "text": "Any prayer request you'd like to share?",
+      "start": 36.067,
+      "end": 38.684
+    },
+    {
+      "index": 10,
+      "speaker": "You",
+      "text": "Yes, for patience and a steady heart while I adjust.",
+      "start": 39.104,
+      "end": 44.205
+    },
+    {
+      "index": 11,
+      "speaker": "Leader",
+      "text": "Absolutely. We're glad you're here.",
+      "start": 44.625,
+      "end": 47.736
+    },
+    {
+      "index": 12,
+      "speaker": "You",
+      "text": "Thank you. I'm glad to be here too.",
+      "start": 48.156,
+      "end": 50.585
+    }
+  ]
+}

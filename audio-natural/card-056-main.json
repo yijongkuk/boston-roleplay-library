@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 52.291,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Member",
+      "text": "Hi, I don't think we've met. I'm Michael.",
+      "start": 0,
+      "end": 2.816
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Nice to meet you. I'm Jongkuk. Today's my first Sunday here.",
+      "start": 3.236,
+      "end": 7.122
+    },
+    {
+      "index": 2,
+      "speaker": "Member",
+      "text": "Welcome. Are you new to Boston?",
+      "start": 7.542,
+      "end": 11.228
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Yes, I arrived recently to start a PhD program in architecture.",
+      "start": 11.648,
+      "end": 16.068
+    },
+    {
+      "index": 4,
+      "speaker": "Member",
+      "text": "Wow. How's the adjustment going?",
+      "start": 16.488,
+      "end": 19.105
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Slowly, but I'm grateful. I'm figuring out housing, campus, food, all the basics.",
+      "start": 19.525,
+      "end": 25.401
+    },
+    {
+      "index": 6,
+      "speaker": "Member",
+      "text": "That's a lot to carry at once.",
+      "start": 25.821,
+      "end": 28.932
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "It is. I'm trying to build community before I get buried in schoolwork.",
+      "start": 29.352,
+      "end": 34.882
+    },
+    {
+      "index": 8,
+      "speaker": "Member",
+      "text": "Good instinct. We have small groups during the week if you're interested.",
+      "start": 35.302,
+      "end": 40.789
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "I am, but I may need something low-pressure at first.",
+      "start": 41.209,
+      "end": 44.854
+    },
+    {
+      "index": 10,
+      "speaker": "Member",
+      "text": "Totally. I can introduce you to the group coordinator.",
+      "start": 45.274,
+      "end": 50.175
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "That would be great. Thank you.",
+      "start": 50.595,
+      "end": 52.291
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 38.704,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Cashier",
+      "text": "Hey, you all set?",
+      "start": 0,
+      "end": 1.507
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Yeah, just this water and sandwich, please.",
+      "start": 1.927,
+      "end": 4.891
+    },
+    {
+      "index": 2,
+      "speaker": "Cashier",
+      "text": "Long flight?",
+      "start": 5.311,
+      "end": 6.86
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Very long. I just got in, so I'm trying to wake up a little.",
+      "start": 7.28,
+      "end": 10.924
+    },
+    {
+      "index": 4,
+      "speaker": "Cashier",
+      "text": "I hear you. That'll be $12.40. You can tap whenever you're ready.",
+      "start": 11.344,
+      "end": 16.298
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Thanks. The screen is asking about a tip, right?",
+      "start": 16.718,
+      "end": 20.257
+    },
+    {
+      "index": 6,
+      "speaker": "Cashier",
+      "text": "Yep, just make a selection and it'll go through.",
+      "start": 20.677,
+      "end": 24.269
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Got it. Could I get a bag too? I have too much luggage.",
+      "start": 24.689,
+      "end": 29.056
+    },
+    {
+      "index": 8,
+      "speaker": "Cashier",
+      "text": "Sure. Do you need the receipt?",
+      "start": 29.476,
+      "end": 31.559
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Yes, please. Thanks. Have a good one.",
+      "start": 31.979,
+      "end": 35.132
+    },
+    {
+      "index": 10,
+      "speaker": "Cashier",
+      "text": "You too. Welcome to Boston.",
+      "start": 35.552,
+      "end": 38.704
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 45.502,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Member",
+      "text": "Hi, is this seat open?",
+      "start": 0,
+      "end": 2.722
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Yes, please. I'm new here, so I'm not sure what the usual flow is.",
+      "start": 3.142,
+      "end": 7.509
+    },
+    {
+      "index": 2,
+      "speaker": "Member",
+      "text": "No worries. The service will start with a couple of songs, then announcements and the message.",
+      "start": 7.929,
+      "end": 13.176
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Thanks. That helps. I'm Jongkuk, by the way.",
+      "start": 13.596,
+      "end": 17.576
+    },
+    {
+      "index": 4,
+      "speaker": "Member",
+      "text": "I'm Grace. Nice to meet you.",
+      "start": 17.996,
+      "end": 20.572
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Nice to meet you too. I just moved to Boston for school.",
+      "start": 20.992,
+      "end": 24.636
+    },
+    {
+      "index": 6,
+      "speaker": "Member",
+      "text": "Oh, where are you studying?",
+      "start": 25.056,
+      "end": 27.391
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "I'm starting a PhD program in architecture.",
+      "start": 27.811,
+      "end": 30.964
+    },
+    {
+      "index": 8,
+      "speaker": "Member",
+      "text": "That's exciting. Big transition, though.",
+      "start": 31.384,
+      "end": 34.053
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Very big. I'm trying to find a healthy rhythm early.",
+      "start": 34.473,
+      "end": 38.065
+    },
+    {
+      "index": 10,
+      "speaker": "Member",
+      "text": "That's wise.",
+      "start": 38.485,
+      "end": 40.18
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Thanks. If I seem a little lost, I'm still learning both Boston and the service order.",
+      "start": 40.6,
+      "end": 45.502
+    }
+  ]
+}

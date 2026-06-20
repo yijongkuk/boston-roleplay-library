@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 41.658,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Postal Worker",
+      "text": "Next in line.",
+      "start": 0,
+      "end": 1.507
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Hi, I'd like to send this package to Korea.",
+      "start": 1.927,
+      "end": 4.986
+    },
+    {
+      "index": 2,
+      "speaker": "Postal Worker",
+      "text": "International shipping. What's inside?",
+      "start": 5.406,
+      "end": 7.929
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Just documents and a small gift. Nothing fragile or electronic.",
+      "start": 8.349,
+      "end": 13.061
+    },
+    {
+      "index": 4,
+      "speaker": "Postal Worker",
+      "text": "You'll need to fill out a customs form.",
+      "start": 13.481,
+      "end": 15.953
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Okay. Is there a cheaper option, or is this the standard rate?",
+      "start": 16.373,
+      "end": 20.498
+    },
+    {
+      "index": 6,
+      "speaker": "Postal Worker",
+      "text": "There are a few options depending on speed and tracking.",
+      "start": 20.918,
+      "end": 24.846
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "I'd like tracking, but it doesn't have to be the fastest.",
+      "start": 25.266,
+      "end": 28.763
+    },
+    {
+      "index": 8,
+      "speaker": "Postal Worker",
+      "text": "Then this option is probably best.",
+      "start": 29.183,
+      "end": 31.706
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Great. Could you show me where to write the recipient's phone number?",
+      "start": 32.126,
+      "end": 35.918
+    },
+    {
+      "index": 10,
+      "speaker": "Postal Worker",
+      "text": "Right here under the address.",
+      "start": 36.338,
+      "end": 38.767
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Perfect. Thanks for walking me through it.",
+      "start": 39.187,
+      "end": 41.658
+    }
+  ]
+}

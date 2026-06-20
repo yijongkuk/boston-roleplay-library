@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 51.274,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Volunteer",
+      "text": "Good morning. Welcome.",
+      "start": 0,
+      "end": 2.283
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Good morning. This is my first time here.",
+      "start": 2.703,
+      "end": 5.855
+    },
+    {
+      "index": 2,
+      "speaker": "Volunteer",
+      "text": "We're glad you're here. Are you looking for the service?",
+      "start": 6.275,
+      "end": 9.627
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Yes. I just moved to Boston, and I wanted to visit a church nearby.",
+      "start": 10.047,
+      "end": 14.853
+    },
+    {
+      "index": 4,
+      "speaker": "Volunteer",
+      "text": "Of course. The service starts in about ten minutes.",
+      "start": 15.273,
+      "end": 19.347
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Great. Is there a place visitors usually sit, or can I sit anywhere?",
+      "start": 19.767,
+      "end": 24.521
+    },
+    {
+      "index": 6,
+      "speaker": "Volunteer",
+      "text": "You can sit anywhere. If you'd like, I can introduce you to our newcomer team afterward.",
+      "start": 24.941,
+      "end": 31.204
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "That would be nice. I'm still getting settled, so it would be good to meet people slowly.",
+      "start": 31.624,
+      "end": 36.484
+    },
+    {
+      "index": 8,
+      "speaker": "Volunteer",
+      "text": "Absolutely. Do you prefer to sit near the back today?",
+      "start": 36.904,
+      "end": 40.548
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Yes, that would help me follow along without feeling too visible.",
+      "start": 40.968,
+      "end": 44.56
+    },
+    {
+      "index": 10,
+      "speaker": "Volunteer",
+      "text": "No problem. Right this way.",
+      "start": 44.98,
+      "end": 47.649
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Thank you. I appreciate the warm welcome.",
+      "start": 48.069,
+      "end": 51.274
+    }
+  ]
+}

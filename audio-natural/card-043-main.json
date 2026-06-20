@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 50.613,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Guide",
+      "text": "This block shows several layers of Boston's urban history.",
+      "start": 0,
+      "end": 3.299
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Can I ask a quick question about the materials?",
+      "start": 3.719,
+      "end": 6.588
+    },
+    {
+      "index": 2,
+      "speaker": "Guide",
+      "text": "Of course.",
+      "start": 7.008,
+      "end": 8.462
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Was the brick chosen mainly for preservation reasons, or was it also about matching the surrounding context?",
+      "start": 8.882,
+      "end": 15.24
+    },
+    {
+      "index": 4,
+      "speaker": "Guide",
+      "text": "Both. The review board cared about continuity, but the architects also wanted a quieter street presence.",
+      "start": 15.66,
+      "end": 22.164
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "That makes sense. It feels new, but it doesn't shout.",
+      "start": 22.584,
+      "end": 25.59
+    },
+    {
+      "index": 6,
+      "speaker": "Participant",
+      "text": "Are you an architect?",
+      "start": 26.01,
+      "end": 29.162
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Yes, I'm starting a PhD in architecture, so I'm trying to learn the city by walking it.",
+      "start": 29.582,
+      "end": 34.965
+    },
+    {
+      "index": 8,
+      "speaker": "Guide",
+      "text": "That's the best way to learn Boston.",
+      "start": 35.385,
+      "end": 38.149
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "I'm also curious how the city balances preservation with development pressure.",
+      "start": 38.569,
+      "end": 43.323
+    },
+    {
+      "index": 10,
+      "speaker": "Guide",
+      "text": "That tension is everywhere here.",
+      "start": 43.743,
+      "end": 45.826
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "I can already feel that. It's a very useful city to study.",
+      "start": 46.246,
+      "end": 50.613
+    }
+  ]
+}

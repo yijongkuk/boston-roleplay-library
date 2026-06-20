@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 54.174,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Administrator",
+      "text": "Hi there. What can I do for you?",
+      "start": 0,
+      "end": 1.894
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Hi, I'm Jongkuk, one of the new PhD students in architecture.",
+      "start": 2.314,
+      "end": 6.293
+    },
+    {
+      "index": 2,
+      "speaker": "Administrator",
+      "text": "Welcome. Have you met your advisor yet?",
+      "start": 6.713,
+      "end": 9.477
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Not yet. I have a meeting scheduled later this week, but I wanted to check in with the department first.",
+      "start": 9.897,
+      "end": 15.28
+    },
+    {
+      "index": 4,
+      "speaker": "Administrator",
+      "text": "Good. We can add you to the mailing list and confirm your studio assignment.",
+      "start": 15.7,
+      "end": 20.696
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "That would be great. I don't want to miss any first-week announcements.",
+      "start": 21.116,
+      "end": 25.828
+    },
+    {
+      "index": 6,
+      "speaker": "Administrator",
+      "text": "What's your university email?",
+      "start": 26.248,
+      "end": 28.384
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "It's still being activated. Can I give you my personal email for now and update it later?",
+      "start": 28.804,
+      "end": 34.145
+    },
+    {
+      "index": 8,
+      "speaker": "Administrator",
+      "text": "Sure. Just send us the university one when it's active.",
+      "start": 34.565,
+      "end": 38.985
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Perfect. Also, is there a recommended process for course registration?",
+      "start": 39.405,
+      "end": 44.306
+    },
+    {
+      "index": 10,
+      "speaker": "Administrator",
+      "text": "Talk to your advisor first, then submit your selections online.",
+      "start": 44.726,
+      "end": 49.722
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Got it. Thanks. I'm trying to start on the right foot.",
+      "start": 50.142,
+      "end": 54.174
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 54.869,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Gallerist",
+      "text": "Hi, let me know if you have any questions.",
+      "start": 0,
+      "end": 3.592
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Thanks. I was actually wondering about this piece. Is it part of a larger series?",
+      "start": 4.012,
+      "end": 9.008
+    },
+    {
+      "index": 2,
+      "speaker": "Gallerist",
+      "text": "Yes, the artist has been working with domestic objects and memory.",
+      "start": 9.428,
+      "end": 14.916
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "That makes sense. It feels familiar, but slightly displaced.",
+      "start": 15.336,
+      "end": 20.384
+    },
+    {
+      "index": 4,
+      "speaker": "Gallerist",
+      "text": "That's a nice way to put it.",
+      "start": 20.804,
+      "end": 23.234
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "I'm studying architecture, so I'm also interested in how the work changes the room.",
+      "start": 23.654,
+      "end": 27.927
+    },
+    {
+      "index": 6,
+      "speaker": "Gallerist",
+      "text": "The installation was designed specifically for this space.",
+      "start": 28.347,
+      "end": 32.714
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "I noticed the sightline from the entrance. It pulls you in before you understand what you're looking at.",
+      "start": 33.134,
+      "end": 39.01
+    },
+    {
+      "index": 8,
+      "speaker": "Gallerist",
+      "text": "Exactly. The artist wanted that slow reveal.",
+      "start": 39.43,
+      "end": 43.169
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "It's really thoughtful. Is there an artist statement I could read?",
+      "start": 43.589,
+      "end": 46.992
+    },
+    {
+      "index": 10,
+      "speaker": "Gallerist",
+      "text": "Yes, right by the front desk.",
+      "start": 47.412,
+      "end": 50.176
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Great. Thank you. This is giving me a lot to think about.",
+      "start": 50.596,
+      "end": 54.869
+    }
+  ]
+}

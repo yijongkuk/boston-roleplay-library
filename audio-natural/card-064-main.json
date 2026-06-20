@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 49.525,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Officer",
+      "text": "What seems to be the problem?",
+      "start": 0,
+      "end": 2.135
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "I think I lost my wallet. I last had it near South Station.",
+      "start": 2.555,
+      "end": 7.268
+    },
+    {
+      "index": 2,
+      "speaker": "Officer",
+      "text": "What was inside?",
+      "start": 7.688,
+      "end": 9.237
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "My Korean ID, one debit card, some cash, and my student ID.",
+      "start": 9.657,
+      "end": 14.118
+    },
+    {
+      "index": 4,
+      "speaker": "Officer",
+      "text": "Do you know the approximate time you lost it?",
+      "start": 14.538,
+      "end": 18.329
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Probably between 6 and 7 p.m. I noticed it was missing when I got home.",
+      "start": 18.749,
+      "end": 24.384
+    },
+    {
+      "index": 6,
+      "speaker": "Officer",
+      "text": "We can file a lost property report.",
+      "start": 24.804,
+      "end": 28.448
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Thank you. I also want to know what to do if someone uses my card.",
+      "start": 28.868,
+      "end": 33.865
+    },
+    {
+      "index": 8,
+      "speaker": "Officer",
+      "text": "Call your bank immediately and freeze the card.",
+      "start": 34.285,
+      "end": 37.542
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "I already locked it through the app, but I'll call them too.",
+      "start": 37.962,
+      "end": 41.261
+    },
+    {
+      "index": 10,
+      "speaker": "Officer",
+      "text": "Good. Leave your contact information here.",
+      "start": 41.681,
+      "end": 45.272
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Of course. If it turns up, could someone contact me by email?",
+      "start": 45.692,
+      "end": 49.525
+    }
+  ]
+}

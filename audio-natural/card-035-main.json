@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 39.51,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "You",
+      "text": "Hi, is this the end of the line?",
+      "start": 0,
+      "end": 2.135
+    },
+    {
+      "index": 1,
+      "speaker": "Customer",
+      "text": "Yeah, you're good.",
+      "start": 2.555,
+      "end": 4.932
+    },
+    {
+      "index": 2,
+      "speaker": "You",
+      "text": "Thanks. I'm still figuring out how this works.",
+      "start": 5.352,
+      "end": 8.609
+    },
+    {
+      "index": 3,
+      "speaker": "Staff",
+      "text": "Next! What can I get you?",
+      "start": 9.029,
+      "end": 11.165
+    },
+    {
+      "index": 4,
+      "speaker": "You",
+      "text": "Could I get the chicken over rice?",
+      "start": 11.585,
+      "end": 13.92
+    },
+    {
+      "index": 5,
+      "speaker": "Staff",
+      "text": "White sauce, hot sauce?",
+      "start": 14.34,
+      "end": 17.156
+    },
+    {
+      "index": 6,
+      "speaker": "You",
+      "text": "White sauce, please. Just a little hot sauce on the side.",
+      "start": 17.576,
+      "end": 21.608
+    },
+    {
+      "index": 7,
+      "speaker": "Staff",
+      "text": "Anything to drink?",
+      "start": 22.028,
+      "end": 23.63
+    },
+    {
+      "index": 8,
+      "speaker": "You",
+      "text": "No, that's all. How long is the wait usually?",
+      "start": 24.05,
+      "end": 27.736
+    },
+    {
+      "index": 9,
+      "speaker": "Staff",
+      "text": "About five minutes.",
+      "start": 28.156,
+      "end": 29.852
+    },
+    {
+      "index": 10,
+      "speaker": "You",
+      "text": "Perfect. Can I pay by card?",
+      "start": 30.272,
+      "end": 32.889
+    },
+    {
+      "index": 11,
+      "speaker": "Staff",
+      "text": "Yep, tap right there.",
+      "start": 33.309,
+      "end": 36.566
+    },
+    {
+      "index": 12,
+      "speaker": "You",
+      "text": "Thanks. I'll wait over here.",
+      "start": 36.986,
+      "end": 39.51
+    }
+  ]
+}

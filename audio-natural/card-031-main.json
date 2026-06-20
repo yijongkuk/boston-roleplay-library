@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 44.349,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Server",
+      "text": "Hi, what can I get for you?",
+      "start": 0,
+      "end": 1.654
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Could I get the rice bowl, please?",
+      "start": 2.074,
+      "end": 4.357
+    },
+    {
+      "index": 2,
+      "speaker": "Server",
+      "text": "Chicken, tofu, or vegetables?",
+      "start": 4.777,
+      "end": 8.034
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Tofu, please. Does the sauce have nuts in it?",
+      "start": 8.454,
+      "end": 11.606
+    },
+    {
+      "index": 4,
+      "speaker": "Server",
+      "text": "No nuts, but it does have sesame.",
+      "start": 12.026,
+      "end": 15.032
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Sesame is fine. Could I get the sauce on the side?",
+      "start": 15.452,
+      "end": 19.138
+    },
+    {
+      "index": 6,
+      "speaker": "Server",
+      "text": "Sure. Anything to drink?",
+      "start": 19.558,
+      "end": 22.521
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Just water, thanks.",
+      "start": 22.941,
+      "end": 24.637
+    },
+    {
+      "index": 8,
+      "speaker": "Student",
+      "text": "Is this seat taken?",
+      "start": 25.057,
+      "end": 26.659
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "No, go ahead.",
+      "start": 27.079,
+      "end": 28.732
+    },
+    {
+      "index": 10,
+      "speaker": "Student",
+      "text": "Thanks. Are you in the architecture program?",
+      "start": 29.152,
+      "end": 32.65
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Yeah, first week. I'm still figuring out the food situation and everything else.",
+      "start": 33.07,
+      "end": 37.876
+    },
+    {
+      "index": 12,
+      "speaker": "Student",
+      "text": "This place is decent when you're in a hurry.",
+      "start": 38.296,
+      "end": 41.06
+    },
+    {
+      "index": 13,
+      "speaker": "You",
+      "text": "Good to know. I need a few reliable options.",
+      "start": 41.48,
+      "end": 44.349
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 39.823,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "You",
+      "text": "Hey, are you using this bench?",
+      "start": 0,
+      "end": 2.471
+    },
+    {
+      "index": 1,
+      "speaker": "Member",
+      "text": "Yeah, but I've got one set left.",
+      "start": 2.891,
+      "end": 5.949
+    },
+    {
+      "index": 2,
+      "speaker": "You",
+      "text": "No problem. Mind if I work in after that?",
+      "start": 6.369,
+      "end": 9.28
+    },
+    {
+      "index": 3,
+      "speaker": "Member",
+      "text": "Sure, go for it.",
+      "start": 9.7,
+      "end": 11.647
+    },
+    {
+      "index": 4,
+      "speaker": "You",
+      "text": "Thanks. I'm still figuring out the layout here.",
+      "start": 12.067,
+      "end": 15.511
+    },
+    {
+      "index": 5,
+      "speaker": "Member",
+      "text": "First time at this gym?",
+      "start": 15.931,
+      "end": 17.92
+    },
+    {
+      "index": 6,
+      "speaker": "You",
+      "text": "Yeah, I just moved to Boston. Trying to keep some kind of routine.",
+      "start": 18.34,
+      "end": 21.984
+    },
+    {
+      "index": 7,
+      "speaker": "Member",
+      "text": "Smart. This place gets packed after work.",
+      "start": 22.404,
+      "end": 26.195
+    },
+    {
+      "index": 8,
+      "speaker": "You",
+      "text": "Good to know. I'll try mornings then.",
+      "start": 26.615,
+      "end": 29.579
+    },
+    {
+      "index": 9,
+      "speaker": "Member",
+      "text": "That's the move.",
+      "start": 29.999,
+      "end": 31.799
+    },
+    {
+      "index": 10,
+      "speaker": "You",
+      "text": "By the way, do people usually wipe down equipment after each set here?",
+      "start": 32.219,
+      "end": 36.199
+    },
+    {
+      "index": 11,
+      "speaker": "Member",
+      "text": "Yeah, wipes are over there by the column.",
+      "start": 36.619,
+      "end": 39.823
+    }
+  ]
+}

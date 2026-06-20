@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 40.836,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "You",
+      "text": "Excuse me, is anyone sitting here?",
+      "start": 0,
+      "end": 2.135
+    },
+    {
+      "index": 1,
+      "speaker": "Customer",
+      "text": "No, go ahead.",
+      "start": 2.555,
+      "end": 4.449
+    },
+    {
+      "index": 2,
+      "speaker": "You",
+      "text": "Thanks. Also, do you mind if I use this outlet?",
+      "start": 4.869,
+      "end": 8.702
+    },
+    {
+      "index": 3,
+      "speaker": "Customer",
+      "text": "Not at all. I was just about to unplug anyway.",
+      "start": 9.122,
+      "end": 12.662
+    },
+    {
+      "index": 4,
+      "speaker": "You",
+      "text": "Perfect. I just need to charge my laptop for a bit.",
+      "start": 13.082,
+      "end": 16.234
+    },
+    {
+      "index": 5,
+      "speaker": "Customer",
+      "text": "Are you working on school stuff?",
+      "start": 16.654,
+      "end": 18.79
+    },
+    {
+      "index": 6,
+      "speaker": "You",
+      "text": "Yeah, I'm starting a PhD program, so I'm trying to get organized before classes hit.",
+      "start": 19.21,
+      "end": 24.069
+    },
+    {
+      "index": 7,
+      "speaker": "Customer",
+      "text": "Good luck. That's a lot.",
+      "start": 24.489,
+      "end": 26.331
+    },
+    {
+      "index": 8,
+      "speaker": "You",
+      "text": "Thanks. I'm trying not to panic on day two.",
+      "start": 26.751,
+      "end": 30.929
+    },
+    {
+      "index": 9,
+      "speaker": "Customer",
+      "text": "Reasonable goal.",
+      "start": 31.349,
+      "end": 33.243
+    },
+    {
+      "index": 10,
+      "speaker": "You",
+      "text": "One quick favor - if I run to grab my drink, could you keep an eye on my bag?",
+      "start": 33.663,
+      "end": 38.47
+    },
+    {
+      "index": 11,
+      "speaker": "Customer",
+      "text": "Sure, no problem.",
+      "start": 38.89,
+      "end": 40.836
+    }
+  ]
+}

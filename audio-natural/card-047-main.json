@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 46.266,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "You",
+      "text": "Excuse me, would you mind taking a quick photo for me?",
+      "start": 0,
+      "end": 3.205
+    },
+    {
+      "index": 1,
+      "speaker": "Tourist",
+      "text": "Sure. How do you want it framed?",
+      "start": 3.625,
+      "end": 6.536
+    },
+    {
+      "index": 2,
+      "speaker": "You",
+      "text": "If you could get the river and a little bit of the skyline, that would be great.",
+      "start": 6.956,
+      "end": 11.522
+    },
+    {
+      "index": 3,
+      "speaker": "Tourist",
+      "text": "Got it. One, two, three.",
+      "start": 11.942,
+      "end": 14.024
+    },
+    {
+      "index": 4,
+      "speaker": "You",
+      "text": "Thanks so much. That looks great.",
+      "start": 14.444,
+      "end": 17.555
+    },
+    {
+      "index": 5,
+      "speaker": "Tourist",
+      "text": "Are you visiting?",
+      "start": 17.975,
+      "end": 19.671
+    },
+    {
+      "index": 6,
+      "speaker": "You",
+      "text": "I just moved here for school, so I'm half tourist, half overwhelmed new resident.",
+      "start": 20.091,
+      "end": 25.044
+    },
+    {
+      "index": 7,
+      "speaker": "Tourist",
+      "text": "That's a good combination.",
+      "start": 25.465,
+      "end": 27.8
+    },
+    {
+      "index": 8,
+      "speaker": "You",
+      "text": "I'm trying to walk around and get a feel for the city before classes get intense.",
+      "start": 28.22,
+      "end": 33.415
+    },
+    {
+      "index": 9,
+      "speaker": "Tourist",
+      "text": "This is a good place for that.",
+      "start": 33.835,
+      "end": 35.876
+    },
+    {
+      "index": 10,
+      "speaker": "You",
+      "text": "Definitely. Do you know if this path loops all the way around?",
+      "start": 36.296,
+      "end": 40.223
+    },
+    {
+      "index": 11,
+      "speaker": "Tourist",
+      "text": "Yeah, you can keep following it for a long walk.",
+      "start": 40.643,
+      "end": 43.9
+    },
+    {
+      "index": 12,
+      "speaker": "You",
+      "text": "Perfect. Thanks again.",
+      "start": 44.32,
+      "end": 46.266
+    }
+  ]
+}

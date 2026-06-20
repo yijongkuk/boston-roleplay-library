@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 46.331,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Staff",
+      "text": "Hi, welcome in. First time here?",
+      "start": 0,
+      "end": 2.523
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Yeah, I'm new in the area and wanted to ask about membership options.",
+      "start": 2.943,
+      "end": 7.216
+    },
+    {
+      "index": 2,
+      "speaker": "Staff",
+      "text": "Sure. We have monthly memberships and day passes.",
+      "start": 7.636,
+      "end": 12.685
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Could I start with a day pass today and decide later?",
+      "start": 13.105,
+      "end": 16.509
+    },
+    {
+      "index": 4,
+      "speaker": "Staff",
+      "text": "Absolutely. It's twenty dollars for the day.",
+      "start": 16.929,
+      "end": 19.546
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Sounds good. Do you provide towels, or should I bring my own?",
+      "start": 19.966,
+      "end": 24.239
+    },
+    {
+      "index": 6,
+      "speaker": "Staff",
+      "text": "Bring your own for now, unless you add towel service.",
+      "start": 24.659,
+      "end": 28.985
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Got it. Where are the lockers and showers?",
+      "start": 29.405,
+      "end": 32.609
+    },
+    {
+      "index": 8,
+      "speaker": "Staff",
+      "text": "Locker rooms are down the hall on your left. Bring your own lock.",
+      "start": 33.029,
+      "end": 37.208
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Okay. And what time do you usually close on weekdays?",
+      "start": 37.628,
+      "end": 41.272
+    },
+    {
+      "index": 10,
+      "speaker": "Staff",
+      "text": "Ten p.m.",
+      "start": 41.692,
+      "end": 42.852
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Perfect. I'll do the day pass today.",
+      "start": 43.272,
+      "end": 46.331
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 42.432,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Barista",
+      "text": "Hi, what can I get started for you?",
+      "start": 0,
+      "end": 3.351
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Could I get an iced latte, medium, please?",
+      "start": 3.771,
+      "end": 7.751
+    },
+    {
+      "index": 2,
+      "speaker": "Barista",
+      "text": "Sure. Any milk preference?",
+      "start": 8.171,
+      "end": 11.229
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Whole milk is fine. Actually, do you have oat milk?",
+      "start": 11.649,
+      "end": 15.482
+    },
+    {
+      "index": 4,
+      "speaker": "Barista",
+      "text": "We do. It's a dollar extra.",
+      "start": 15.902,
+      "end": 18.624
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "That's fine. I'll do oat milk then.",
+      "start": 19.044,
+      "end": 22.155
+    },
+    {
+      "index": 6,
+      "speaker": "Barista",
+      "text": "For here or to go?",
+      "start": 22.575,
+      "end": 24.27
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "For here, please. I'm going to sit and do some work.",
+      "start": 24.69,
+      "end": 29.152
+    },
+    {
+      "index": 8,
+      "speaker": "Barista",
+      "text": "Can I get a name?",
+      "start": 29.572,
+      "end": 31.079
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Jongkuk. It's spelled J-O-N-G-K-U-K.",
+      "start": 31.499,
+      "end": 36.159
+    },
+    {
+      "index": 10,
+      "speaker": "Barista",
+      "text": "Got it. You can tap whenever you're ready.",
+      "start": 36.579,
+      "end": 39.343
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Thanks. Could I get the receipt too?",
+      "start": 39.763,
+      "end": 42.432
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Boston Roleplay Library</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="library-panel" aria-label="Roleplay card library">
+        <header class="brand">
+          <p class="eyebrow">Boston PhD Life</p>
+          <h1>Roleplay Library</h1>
+          <p class="brand-note">Place-based scripts for real daily situations.</p>
+        </header>
+
+        <div class="controls">
+          <label class="search-label" for="searchInput">Search</label>
+          <input id="searchInput" type="search" placeholder="airport, cafe, professor..." autocomplete="off" />
+
+          <div class="filter-group" aria-label="Pack filter">
+            <button class="filter-button is-active" type="button" data-pack="All">All</button>
+          </div>
+
+          <div class="status-toggle" aria-label="Card status filter">
+            <button class="status-button is-active" type="button" data-status="all">All cards</button>
+            <button class="status-button" type="button" data-status="scripted">Scripted</button>
+            <button class="status-button" type="button" data-status="outline">Outline</button>
+          </div>
+        </div>
+
+        <div class="library-meta">
+          <span id="cardCount">0 cards</span>
+          <span id="scriptedCount">0 scripted</span>
+        </div>
+
+        <nav id="cardList" class="card-list" aria-label="Cards"></nav>
+      </aside>
+
+      <main class="practice-panel">
+        <section class="topbar" aria-label="Practice controls">
+          <div class="mode-tabs" role="tablist" aria-label="Practice mode">
+            <button class="mode-button is-active" type="button" data-mode="all">All lines</button>
+            <button class="mode-button" type="button" data-mode="prompt">Prompt me</button>
+            <button class="mode-button" type="button" data-mode="you">You only</button>
+          </div>
+
+          <div class="timer-box" aria-live="polite">
+            <span id="timerDisplay">01:00</span>
+            <button id="timerButton" type="button">Start</button>
+            <button id="resetTimerButton" type="button">Reset</button>
+          </div>
+
+          <div class="nav-actions">
+            <button id="prevButton" type="button">Prev</button>
+            <button id="nextButton" type="button">Next</button>
+            <button id="copyButton" type="button">Copy</button>
+          </div>
+        </section>
+
+        <section id="cardDetail" class="card-detail" aria-live="polite"></section>
+      </main>
+    </div>
+
+    <script src="data/cards.js"></script>
+    <script src="data/extra-dialogues.js"></script>
+    <script src="data/expression-translations.js"></script>
+    <script src="audio-natural/manifests.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

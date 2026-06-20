@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 46.999,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Ticket Staff",
+      "text": "Hi, welcome. Are you buying tickets today?",
+      "start": 0,
+      "end": 2.523
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Yes. Do you offer a student discount?",
+      "start": 2.943,
+      "end": 5.613
+    },
+    {
+      "index": 2,
+      "speaker": "Ticket Staff",
+      "text": "We do. Do you have a student ID?",
+      "start": 6.033,
+      "end": 8.462
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Yes, here it is.",
+      "start": 8.882,
+      "end": 11.017
+    },
+    {
+      "index": 4,
+      "speaker": "Ticket Staff",
+      "text": "Great. General admission is discounted with that.",
+      "start": 11.437,
+      "end": 14.841
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Perfect. I'm especially interested in architecture and spatial installations. Is there a gallery you'd recommend starting with?",
+      "start": 15.261,
+      "end": 22.541
+    },
+    {
+      "index": 6,
+      "speaker": "Ticket Staff",
+      "text": "You might like the contemporary wing, and the courtyard is worth seeing too.",
+      "start": 22.961,
+      "end": 27.381
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Great. Is there an audio guide, or is everything on the app?",
+      "start": 27.801,
+      "end": 32.262
+    },
+    {
+      "index": 8,
+      "speaker": "Ticket Staff",
+      "text": "Mostly through the app now.",
+      "start": 32.682,
+      "end": 34.765
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Got it. If I want to come back another day, is the ticket single-entry only?",
+      "start": 35.185,
+      "end": 39.698
+    },
+    {
+      "index": 10,
+      "speaker": "Ticket Staff",
+      "text": "It's valid for today only.",
+      "start": 40.118,
+      "end": 42.454
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Okay, then I'll take my time. Thanks for the guidance.",
+      "start": 42.874,
+      "end": 46.999
+    }
+  ]
+}

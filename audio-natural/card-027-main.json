@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 50.783,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Classmate",
+      "text": "Hey, are you new to the studio?",
+      "start": 0,
+      "end": 2.669
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Yeah, I'm Jongkuk. I'm starting the PhD program this semester.",
+      "start": 3.089,
+      "end": 8.043
+    },
+    {
+      "index": 2,
+      "speaker": "Classmate",
+      "text": "Nice. I'm Maya. What were you doing before this?",
+      "start": 8.463,
+      "end": 12.149
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "I worked in architecture and research in Korea. I'm interested in housing, urban systems, and how design actually meets daily life.",
+      "start": 12.569,
+      "end": 20.478
+    },
+    {
+      "index": 4,
+      "speaker": "Classmate",
+      "text": "That's a good mix. Do you have a studio desk yet?",
+      "start": 20.898,
+      "end": 23.861
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "I think so, but I'm still figuring out where everything is.",
+      "start": 24.281,
+      "end": 27.821
+    },
+    {
+      "index": 6,
+      "speaker": "Classmate",
+      "text": "That empty one near the window might be yours.",
+      "start": 28.241,
+      "end": 31.498
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "That would be great. Natural light is never a bad thing.",
+      "start": 31.918,
+      "end": 35.321
+    },
+    {
+      "index": 8,
+      "speaker": "Classmate",
+      "text": "True. Are you more of a model person or a drawing person?",
+      "start": 35.741,
+      "end": 39.574
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Probably both, but I need time to get used to the tools here.",
+      "start": 39.994,
+      "end": 43.586
+    },
+    {
+      "index": 10,
+      "speaker": "Classmate",
+      "text": "You'll be fine. First week is just controlled chaos.",
+      "start": 44.006,
+      "end": 48.08
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Controlled chaos sounds about right.",
+      "start": 48.5,
+      "end": 50.783
+    }
+  ]
+}

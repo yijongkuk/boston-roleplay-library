@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 40.598,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Usher",
+      "text": "Good evening. Can I see your ticket?",
+      "start": 0,
+      "end": 2.722
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Of course. I'm in balcony row C.",
+      "start": 3.142,
+      "end": 6.147
+    },
+    {
+      "index": 2,
+      "speaker": "Usher",
+      "text": "Balcony is up the stairs and to the left.",
+      "start": 6.567,
+      "end": 9.824
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Thank you. Is there a program available?",
+      "start": 10.244,
+      "end": 12.966
+    },
+    {
+      "index": 4,
+      "speaker": "Usher",
+      "text": "Yes, right on that table.",
+      "start": 13.386,
+      "end": 15.427
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Great. Do people usually come back to the same seat after intermission, or is it open seating?",
+      "start": 15.847,
+      "end": 21.964
+    },
+    {
+      "index": 6,
+      "speaker": "Usher",
+      "text": "Same seat.",
+      "start": 22.384,
+      "end": 23.933
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Got it. First time in this venue, so I'm learning the routine.",
+      "start": 24.353,
+      "end": 28.333
+    },
+    {
+      "index": 8,
+      "speaker": "Audience Member",
+      "text": "It's a beautiful hall.",
+      "start": 28.753,
+      "end": 31.035
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "It really is. The proportions feel very intimate.",
+      "start": 31.455,
+      "end": 35.047
+    },
+    {
+      "index": 10,
+      "speaker": "Audience Member",
+      "text": "The sound is great too.",
+      "start": 35.467,
+      "end": 37.603
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "I'm looking forward to hearing it in action.",
+      "start": 38.023,
+      "end": 40.598
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 44.443,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Neighbor",
+      "text": "Morning.",
+      "start": 0,
+      "end": 0.973
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Morning. I'm Jongkuk. I just moved in upstairs.",
+      "start": 1.393,
+      "end": 5.184
+    },
+    {
+      "index": 2,
+      "speaker": "Neighbor",
+      "text": "Oh nice, welcome to the building. I'm Rachel.",
+      "start": 5.604,
+      "end": 9.636
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Nice to meet you. I'm still learning my way around.",
+      "start": 10.056,
+      "end": 13.941
+    },
+    {
+      "index": 4,
+      "speaker": "Neighbor",
+      "text": "You picked a good area. Pretty quiet, but close to everything.",
+      "start": 14.361,
+      "end": 18.822
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "That's good to hear. Is there a decent grocery store within walking distance?",
+      "start": 19.242,
+      "end": 23.515
+    },
+    {
+      "index": 6,
+      "speaker": "Neighbor",
+      "text": "Yeah, about ten minutes that way. There's also a smaller market around the corner.",
+      "start": 23.935,
+      "end": 29.036
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Great. And is the elevator usually this slow, or is today special?",
+      "start": 29.456,
+      "end": 33.53
+    },
+    {
+      "index": 8,
+      "speaker": "Neighbor",
+      "text": "Honestly, it's always a little dramatic.",
+      "start": 33.95,
+      "end": 36.672
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Good to know. I'll build that into my schedule.",
+      "start": 37.092,
+      "end": 39.615
+    },
+    {
+      "index": 10,
+      "speaker": "Neighbor",
+      "text": "You'll get used to it.",
+      "start": 40.035,
+      "end": 41.835
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Thanks. See you around.",
+      "start": 42.255,
+      "end": 44.443
+    }
+  ]
+}

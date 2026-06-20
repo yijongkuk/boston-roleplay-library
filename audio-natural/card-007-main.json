@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 54.918,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "You",
+      "text": "Hi, quick question. I'm trying to figure out my next move with all this luggage.",
+      "start": 0,
+      "end": 4.807
+    },
+    {
+      "index": 1,
+      "speaker": "Staff",
+      "text": "Where are you headed?",
+      "start": 5.227,
+      "end": 7.991
+    },
+    {
+      "index": 2,
+      "speaker": "You",
+      "text": "Cambridge. I might take the Red Line, but I may call an Uber if that's easier.",
+      "start": 8.411,
+      "end": 13.165
+    },
+    {
+      "index": 3,
+      "speaker": "Staff",
+      "text": "The Red Line is straight ahead. If you need rideshare, go outside and follow ground transportation.",
+      "start": 13.585,
+      "end": 23.536
+    },
+    {
+      "index": 4,
+      "speaker": "You",
+      "text": "Is there an elevator to the Red Line? I really don't want to carry this down the stairs.",
+      "start": 23.956,
+      "end": 28.47
+    },
+    {
+      "index": 5,
+      "speaker": "Staff",
+      "text": "Yes, the elevator is on your right before the stairs.",
+      "start": 28.89,
+      "end": 33.644
+    },
+    {
+      "index": 6,
+      "speaker": "You",
+      "text": "Great. And is there a restroom nearby before I decide?",
+      "start": 34.064,
+      "end": 37.603
+    },
+    {
+      "index": 7,
+      "speaker": "Staff",
+      "text": "Past the ticket machines, on the left.",
+      "start": 38.023,
+      "end": 42.537
+    },
+    {
+      "index": 8,
+      "speaker": "You",
+      "text": "Red Line straight ahead, elevator on the right, restroom past the machines?",
+      "start": 42.957,
+      "end": 48.204
+    },
+    {
+      "index": 9,
+      "speaker": "Staff",
+      "text": "That's right.",
+      "start": 48.624,
+      "end": 50.037
+    },
+    {
+      "index": 10,
+      "speaker": "You",
+      "text": "Perfect. Thank you. This station is bigger than I expected.",
+      "start": 50.457,
+      "end": 54.918
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 53.609,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Banker",
+      "text": "Hi, what brings you in today?",
+      "start": 0,
+      "end": 3.005
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "I'd like to open a checking account. I just moved here for graduate school.",
+      "start": 3.425,
+      "end": 7.551
+    },
+    {
+      "index": 2,
+      "speaker": "Banker",
+      "text": "Sure. Do you have a passport and proof of address?",
+      "start": 7.971,
+      "end": 12.192
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "I have my passport. For address, I only have temporary housing right now.",
+      "start": 12.612,
+      "end": 17.272
+    },
+    {
+      "index": 4,
+      "speaker": "Banker",
+      "text": "A lease or official school document may work, depending on the account.",
+      "start": 17.692,
+      "end": 22.258
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "I have my admission letter and a housing confirmation email. Would either of those help?",
+      "start": 22.678,
+      "end": 28.019
+    },
+    {
+      "index": 6,
+      "speaker": "Banker",
+      "text": "Let's take a look.",
+      "start": 28.439,
+      "end": 29.852
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Thanks. I also wanted to ask about debit cards and international transfers.",
+      "start": 30.272,
+      "end": 34.984
+    },
+    {
+      "index": 8,
+      "speaker": "Banker",
+      "text": "We can issue a debit card, and we can explain wire transfer fees.",
+      "start": 35.404,
+      "end": 39.582
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Great. I'm trying to understand the fees before I commit to anything.",
+      "start": 40.002,
+      "end": 45.051
+    },
+    {
+      "index": 10,
+      "speaker": "Banker",
+      "text": "Absolutely. We'll go through them line by line.",
+      "start": 45.471,
+      "end": 48.675
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "I appreciate that. Banking terms are still new to me in English.",
+      "start": 49.095,
+      "end": 53.609
+    }
+  ]
+}

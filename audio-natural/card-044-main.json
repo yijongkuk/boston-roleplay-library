@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 54.271,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Librarian",
+      "text": "Hi. First time visiting?",
+      "start": 0,
+      "end": 2.618
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Yes. I'm new to Boston, and I wanted to spend some time here.",
+      "start": 3.038,
+      "end": 7.111
+    },
+    {
+      "index": 2,
+      "speaker": "Librarian",
+      "text": "Welcome. Are you looking for anything specific?",
+      "start": 7.531,
+      "end": 11.27
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "A quiet reading room, and maybe architecture or urban history books if they're easy to find.",
+      "start": 11.69,
+      "end": 17.472
+    },
+    {
+      "index": 4,
+      "speaker": "Librarian",
+      "text": "The reading room is upstairs. Architecture is on the second floor, and local history is nearby.",
+      "start": 17.892,
+      "end": 24.25
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Great. Do I need a library card to sit and read?",
+      "start": 24.67,
+      "end": 28.555
+    },
+    {
+      "index": 6,
+      "speaker": "Librarian",
+      "text": "No, only if you want to borrow materials.",
+      "start": 28.975,
+      "end": 32.955
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Good to know. Is photography allowed in the public areas?",
+      "start": 33.375,
+      "end": 36.914
+    },
+    {
+      "index": 8,
+      "speaker": "Librarian",
+      "text": "Yes, just no flash and be respectful of other visitors.",
+      "start": 37.334,
+      "end": 42.383
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Of course. The building is beautiful, so I wanted to take a few reference photos.",
+      "start": 42.803,
+      "end": 46.981
+    },
+    {
+      "index": 10,
+      "speaker": "Librarian",
+      "text": "That's fine.",
+      "start": 47.401,
+      "end": 49.097
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Thank you. This might become one of my favorite places in the city.",
+      "start": 49.517,
+      "end": 54.271
+    }
+  ]
+}

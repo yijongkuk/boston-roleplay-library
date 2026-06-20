@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 51.986,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Roommate",
+      "text": "Morning. Did you sleep okay after that long flight?",
+      "start": 0,
+      "end": 3.257
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Pretty well, actually. I crashed as soon as I showered.",
+      "start": 3.677,
+      "end": 8.044
+    },
+    {
+      "index": 2,
+      "speaker": "Roommate",
+      "text": "That sounds about right. Help yourself to coffee if you want.",
+      "start": 8.464,
+      "end": 13.177
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Thanks. Is this coffee maker okay to use, or is there a trick to it?",
+      "start": 13.597,
+      "end": 18.55
+    },
+    {
+      "index": 4,
+      "speaker": "Roommate",
+      "text": "Just fill the water here, put a pod in, and hit the big button.",
+      "start": 18.97,
+      "end": 23.044
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Perfect. Also, which fridge shelf should I stick to? I don't want to crowd anyone's stuff.",
+      "start": 23.464,
+      "end": 28.994
+    },
+    {
+      "index": 6,
+      "speaker": "Roommate",
+      "text": "Use the lower shelf for now. We usually label anything shared.",
+      "start": 29.414,
+      "end": 33.487
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Got it. And dishes just go in the dishwasher?",
+      "start": 33.907,
+      "end": 36.913
+    },
+    {
+      "index": 8,
+      "speaker": "Roommate",
+      "text": "Yep, unless it's full. Then just rinse and leave them on the right.",
+      "start": 37.333,
+      "end": 41.553
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Easy enough. I'm heading to campus later to figure out paperwork.",
+      "start": 41.973,
+      "end": 45.565
+    },
+    {
+      "index": 10,
+      "speaker": "Roommate",
+      "text": "Good luck. First week is a lot.",
+      "start": 45.985,
+      "end": 48.603
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Yeah, I'm taking it one errand at a time.",
+      "start": 49.023,
+      "end": 51.986
+    }
+  ]
+}

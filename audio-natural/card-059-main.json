@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 42.588,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Pharmacist",
+      "text": "Hi, what symptoms are you having?",
+      "start": 0,
+      "end": 2.576
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "I have a sore throat, a runny nose, and a little bit of a cough.",
+      "start": 2.996,
+      "end": 7.509
+    },
+    {
+      "index": 2,
+      "speaker": "Pharmacist",
+      "text": "Any fever?",
+      "start": 7.929,
+      "end": 9.289
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Not that I can tell. I mostly feel congested and tired.",
+      "start": 9.709,
+      "end": 13.501
+    },
+    {
+      "index": 4,
+      "speaker": "Pharmacist",
+      "text": "Do you need something non-drowsy?",
+      "start": 13.921,
+      "end": 16.108
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Yes, if possible. I need to be functional during the day.",
+      "start": 16.528,
+      "end": 20.362
+    },
+    {
+      "index": 6,
+      "speaker": "Pharmacist",
+      "text": "This one is non-drowsy. Take it every twelve hours.",
+      "start": 20.782,
+      "end": 25.201
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Thanks. Can I take it with ibuprofen if I have a headache?",
+      "start": 25.621,
+      "end": 29.506
+    },
+    {
+      "index": 8,
+      "speaker": "Pharmacist",
+      "text": "Yes, but follow the dosage on both labels.",
+      "start": 29.926,
+      "end": 32.932
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Got it. Is this over the counter, or do I need a prescription?",
+      "start": 33.352,
+      "end": 36.944
+    },
+    {
+      "index": 10,
+      "speaker": "Pharmacist",
+      "text": "Over the counter.",
+      "start": 37.364,
+      "end": 38.671
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Perfect. Thanks for helping me choose the right thing.",
+      "start": 39.091,
+      "end": 42.588
+    }
+  ]
+}

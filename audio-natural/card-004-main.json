@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 50.217,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "You",
+      "text": "Hi, I just landed, and I'm trying to get to South Station with luggage. What's the easiest way?",
+      "start": 0,
+      "end": 5.677
+    },
+    {
+      "index": 1,
+      "speaker": "Staff",
+      "text": "Take the Silver Line bus from outside the terminal. It goes straight to South Station.",
+      "start": 6.097,
+      "end": 12.015
+    },
+    {
+      "index": 2,
+      "speaker": "You",
+      "text": "Great. Is it okay with two suitcases, or would an Uber be easier?",
+      "start": 12.435,
+      "end": 16.854
+    },
+    {
+      "index": 3,
+      "speaker": "Staff",
+      "text": "The bus is fine with luggage. Just keep your bags close and out of the aisle.",
+      "start": 17.274,
+      "end": 23.443
+    },
+    {
+      "index": 4,
+      "speaker": "You",
+      "text": "Do I need to buy a ticket before I get on?",
+      "start": 23.863,
+      "end": 27.162
+    },
+    {
+      "index": 5,
+      "speaker": "Staff",
+      "text": "No, just follow the signs for buses and ground transportation.",
+      "start": 27.582,
+      "end": 31.855
+    },
+    {
+      "index": 6,
+      "speaker": "You",
+      "text": "So I go downstairs, follow ground transportation, and look for the Silver Line?",
+      "start": 32.275,
+      "end": 37.47
+    },
+    {
+      "index": 7,
+      "speaker": "Staff",
+      "text": "Exactly.",
+      "start": 37.89,
+      "end": 39.491
+    },
+    {
+      "index": 8,
+      "speaker": "You",
+      "text": "Perfect. I just wanted to make sure before dragging my bags around.",
+      "start": 39.911,
+      "end": 44.184
+    },
+    {
+      "index": 9,
+      "speaker": "Staff",
+      "text": "No problem. Safe trip.",
+      "start": 44.604,
+      "end": 47.326
+    },
+    {
+      "index": 10,
+      "speaker": "You",
+      "text": "Thanks. I appreciate it.",
+      "start": 47.746,
+      "end": 50.217
+    }
+  ]
+}

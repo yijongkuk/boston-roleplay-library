@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 47.29,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "You",
+      "text": "Hi, do you know where I can find laundry detergent?",
+      "start": 0,
+      "end": 3.539
+    },
+    {
+      "index": 1,
+      "speaker": "Staff",
+      "text": "Aisle seven, near the cleaning supplies.",
+      "start": 3.959,
+      "end": 6.723
+    },
+    {
+      "index": 2,
+      "speaker": "You",
+      "text": "Thanks. And do you carry small packs of rice, or only the big bags?",
+      "start": 7.143,
+      "end": 11.469
+    },
+    {
+      "index": 3,
+      "speaker": "Staff",
+      "text": "Small bags are in aisle four, bottom shelf.",
+      "start": 11.889,
+      "end": 16.748
+    },
+    {
+      "index": 4,
+      "speaker": "You",
+      "text": "Great. I'm setting up a new place, so I'm buying all the basics at once.",
+      "start": 17.168,
+      "end": 21.493
+    },
+    {
+      "index": 5,
+      "speaker": "Staff",
+      "text": "That first grocery trip is always expensive.",
+      "start": 21.913,
+      "end": 25.893
+    },
+    {
+      "index": 6,
+      "speaker": "You",
+      "text": "I'm learning that very quickly.",
+      "start": 26.313,
+      "end": 28.501
+    },
+    {
+      "index": 7,
+      "speaker": "Cashier",
+      "text": "Do you have a rewards number with us?",
+      "start": 28.921,
+      "end": 31.538
+    },
+    {
+      "index": 8,
+      "speaker": "You",
+      "text": "Not yet. Can I sign up later?",
+      "start": 31.958,
+      "end": 34.827
+    },
+    {
+      "index": 9,
+      "speaker": "Cashier",
+      "text": "Sure. Do you need bags?",
+      "start": 35.247,
+      "end": 37.916
+    },
+    {
+      "index": 10,
+      "speaker": "You",
+      "text": "Yes, please. Two bags should be enough.",
+      "start": 38.336,
+      "end": 41.928
+    },
+    {
+      "index": 11,
+      "speaker": "Cashier",
+      "text": "Receipt in the bag?",
+      "start": 42.348,
+      "end": 44.294
+    },
+    {
+      "index": 12,
+      "speaker": "You",
+      "text": "Yes, please. Thank you.",
+      "start": 44.714,
+      "end": 47.29
+    }
+  ]
+}

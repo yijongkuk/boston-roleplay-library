@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 46.487,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Librarian",
+      "text": "Hi. Do you need help finding something?",
+      "start": 0,
+      "end": 2.335
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Yes, I'm new here, and I'm trying to figure out how the library works.",
+      "start": 2.755,
+      "end": 7.175
+    },
+    {
+      "index": 2,
+      "speaker": "Librarian",
+      "text": "Of course. Are you a student?",
+      "start": 7.595,
+      "end": 9.878
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Yes, I'm starting a PhD in architecture.",
+      "start": 10.298,
+      "end": 13.303
+    },
+    {
+      "index": 4,
+      "speaker": "Librarian",
+      "text": "Great. Your student ID should let you borrow books and use the printers.",
+      "start": 13.723,
+      "end": 18.383
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Perfect. Where would I find architecture books or journals?",
+      "start": 18.803,
+      "end": 23.222
+    },
+    {
+      "index": 6,
+      "speaker": "Librarian",
+      "text": "Architecture is mostly on the third floor, and some journals are online.",
+      "start": 23.642,
+      "end": 27.968
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Is there a quiet area where I can read for a few hours?",
+      "start": 28.388,
+      "end": 31.645
+    },
+    {
+      "index": 8,
+      "speaker": "Librarian",
+      "text": "The reading room upstairs is best for that.",
+      "start": 32.065,
+      "end": 34.734
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Thanks. And if I need to scan something, is that self-service?",
+      "start": 35.154,
+      "end": 39.332
+    },
+    {
+      "index": 10,
+      "speaker": "Librarian",
+      "text": "Yes, but ask at the desk if the scanner gives you trouble.",
+      "start": 39.752,
+      "end": 43.543
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Great. This helps a lot.",
+      "start": 43.963,
+      "end": 46.487
+    }
+  ]
+}

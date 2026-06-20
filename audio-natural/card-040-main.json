@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 54.176,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Agent",
+      "text": "Thanks for contacting support. Can I have the email on the account?",
+      "start": 0,
+      "end": 3.833
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Sure. It's jongkuk dot yi at gmail dot com.",
+      "start": 4.253,
+      "end": 9.06
+    },
+    {
+      "index": 2,
+      "speaker": "Agent",
+      "text": "Thank you. How can I help today?",
+      "start": 9.48,
+      "end": 12.244
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "My package says delivered, but I don't see it in the mailroom or at my door.",
+      "start": 12.664,
+      "end": 17.23
+    },
+    {
+      "index": 4,
+      "speaker": "Agent",
+      "text": "I'm sorry about that. Can you confirm the delivery address?",
+      "start": 17.65,
+      "end": 21.629
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Yes, it's 42 Beacon Street, apartment 3B, Boston.",
+      "start": 22.049,
+      "end": 26.51
+    },
+    {
+      "index": 6,
+      "speaker": "Agent",
+      "text": "The tracking shows it was left with the front desk.",
+      "start": 26.93,
+      "end": 30.282
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "I checked there earlier, but I'll check again. If it's not there, what are the next steps?",
+      "start": 30.702,
+      "end": 35.603
+    },
+    {
+      "index": 8,
+      "speaker": "Agent",
+      "text": "We can open an investigation and contact the carrier.",
+      "start": 36.023,
+      "end": 39.908
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "That would be helpful. I just moved, so I want to make sure the address format is correct.",
+      "start": 40.328,
+      "end": 45.135
+    },
+    {
+      "index": 10,
+      "speaker": "Agent",
+      "text": "The address looks correct on our end.",
+      "start": 45.555,
+      "end": 48.707
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Great. Please go ahead and open the investigation.",
+      "start": 49.127,
+      "end": 54.176
+    }
+  ]
+}

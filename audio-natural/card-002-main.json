@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 47.293,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "You",
+      "text": "Excuse me, my suitcase still hasn't come out. Is this the right carousel for the Seoul flight?",
+      "start": 0,
+      "end": 5.247
+    },
+    {
+      "index": 1,
+      "speaker": "Staff",
+      "text": "It should be. What was your final destination?",
+      "start": 5.667,
+      "end": 8.82
+    },
+    {
+      "index": 2,
+      "speaker": "You",
+      "text": "Boston. I had a connection before this, but the bag was checked through to Boston.",
+      "start": 9.24,
+      "end": 13.994
+    },
+    {
+      "index": 3,
+      "speaker": "Staff",
+      "text": "What does it look like?",
+      "start": 14.414,
+      "end": 16.455
+    },
+    {
+      "index": 4,
+      "speaker": "You",
+      "text": "It's a black hard-shell suitcase with a blue tag on the handle.",
+      "start": 16.875,
+      "end": 21.336
+    },
+    {
+      "index": 5,
+      "speaker": "Staff",
+      "text": "Give it a few more minutes. If it doesn't show up, head to baggage service.",
+      "start": 21.756,
+      "end": 26.752
+    },
+    {
+      "index": 6,
+      "speaker": "You",
+      "text": "Got it. If I need to file a delayed baggage report, is that counter right over there?",
+      "start": 27.172,
+      "end": 31.592
+    },
+    {
+      "index": 7,
+      "speaker": "Staff",
+      "text": "Yes, by the exit doors.",
+      "start": 32.012,
+      "end": 34.776
+    },
+    {
+      "index": 8,
+      "speaker": "You",
+      "text": "Can they deliver it to my temporary address if it comes in later?",
+      "start": 35.196,
+      "end": 39.322
+    },
+    {
+      "index": 9,
+      "speaker": "Staff",
+      "text": "Yes. Just put that address and your phone number on the form.",
+      "start": 39.742,
+      "end": 44.738
+    },
+    {
+      "index": 10,
+      "speaker": "You",
+      "text": "Perfect. Thanks for your help.",
+      "start": 45.158,
+      "end": 47.293
+    }
+  ]
+}

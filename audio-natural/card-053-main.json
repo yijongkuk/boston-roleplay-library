@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 48.813,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Classmate",
+      "text": "Hey, glad you could make it.",
+      "start": 0,
+      "end": 1.946
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Thanks for inviting me. I brought some snacks - nothing fancy, but I didn't want to show up empty-handed.",
+      "start": 2.366,
+      "end": 8.19
+    },
+    {
+      "index": 2,
+      "speaker": "Classmate",
+      "text": "That's perfect. Come on in.",
+      "start": 8.61,
+      "end": 11.04
+    },
+    {
+      "index": 3,
+      "speaker": "Friend",
+      "text": "I don't think we've met. I'm Daniel.",
+      "start": 11.46,
+      "end": 14.57
+    },
+    {
+      "index": 4,
+      "speaker": "You",
+      "text": "Nice to meet you. I'm Jongkuk. I just started the architecture PhD program.",
+      "start": 14.99,
+      "end": 19.745
+    },
+    {
+      "index": 5,
+      "speaker": "Friend",
+      "text": "Oh nice. How's Boston treating you so far?",
+      "start": 20.165,
+      "end": 25.213
+    },
+    {
+      "index": 6,
+      "speaker": "You",
+      "text": "It's been a lot, but in a good way. I'm still learning basic survival things like groceries and laundry.",
+      "start": 25.633,
+      "end": 30.88
+    },
+    {
+      "index": 7,
+      "speaker": "Classmate",
+      "text": "That's real.",
+      "start": 31.3,
+      "end": 32.419
+    },
+    {
+      "index": 8,
+      "speaker": "You",
+      "text": "I also brought a Korean snack. It's a little spicy, but not dangerous.",
+      "start": 32.839,
+      "end": 37.352
+    },
+    {
+      "index": 9,
+      "speaker": "Friend",
+      "text": "Now I'm curious.",
+      "start": 37.772,
+      "end": 41.176
+    },
+    {
+      "index": 10,
+      "speaker": "You",
+      "text": "Try it and tell me the honest truth.",
+      "start": 41.596,
+      "end": 45.335
+    },
+    {
+      "index": 11,
+      "speaker": "Classmate",
+      "text": "Careful, that's how friendships become real.",
+      "start": 45.755,
+      "end": 48.813
+    }
+  ]
+}

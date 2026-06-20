@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 46.612,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Roommate",
+      "text": "Hey, you must be the new guest.",
+      "start": 0,
+      "end": 3.005
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Yeah, I'm Jongkuk. Nice to meet you.",
+      "start": 3.425,
+      "end": 6.043
+    },
+    {
+      "index": 2,
+      "speaker": "Roommate",
+      "text": "I'm Alex. Did you just get in?",
+      "start": 6.463,
+      "end": 8.892
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Yeah, I just arrived from Korea today. My brain's not fully online yet.",
+      "start": 9.312,
+      "end": 14.559
+    },
+    {
+      "index": 4,
+      "speaker": "Roommate",
+      "text": "Totally fair. Don't worry about anything tonight.",
+      "start": 14.979,
+      "end": 17.943
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Thanks. I just wanted to say hi and ask one quick thing.",
+      "start": 18.363,
+      "end": 22.489
+    },
+    {
+      "index": 6,
+      "speaker": "Roommate",
+      "text": "Sure, what's up?",
+      "start": 22.909,
+      "end": 25.725
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Is there a shelf in the fridge I should use? I don't want to take anyone's space by accident.",
+      "start": 26.145,
+      "end": 31.392
+    },
+    {
+      "index": 8,
+      "speaker": "Roommate",
+      "text": "Use the lower shelf for now. We usually label our food and clean up after cooking.",
+      "start": 31.812,
+      "end": 37.195
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "That makes sense. I'll keep it simple tonight and get settled tomorrow.",
+      "start": 37.615,
+      "end": 41.406
+    },
+    {
+      "index": 10,
+      "speaker": "Roommate",
+      "text": "Sounds good. Get some rest.",
+      "start": 41.826,
+      "end": 44.109
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Will do. Nice meeting you.",
+      "start": 44.529,
+      "end": 46.612
+    }
+  ]
+}

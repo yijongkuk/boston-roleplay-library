@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 44.181,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Security",
+      "text": "Please have your ticket ready and unzip your bag.",
+      "start": 0,
+      "end": 2.963
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Sure. I have the ticket on my phone.",
+      "start": 3.383,
+      "end": 6.2
+    },
+    {
+      "index": 2,
+      "speaker": "Security",
+      "text": "Any outside food or drinks?",
+      "start": 6.62,
+      "end": 9.091
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "No, just a water bottle. Should I throw it away?",
+      "start": 9.511,
+      "end": 12.422
+    },
+    {
+      "index": 4,
+      "speaker": "Security",
+      "text": "Empty bottles are fine.",
+      "start": 12.842,
+      "end": 14.735
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Great. I'm in section 310. Which gate should I use?",
+      "start": 15.155,
+      "end": 19.281
+    },
+    {
+      "index": 6,
+      "speaker": "Usher",
+      "text": "You're already through the right gate. Take the escalator up two levels.",
+      "start": 19.701,
+      "end": 23.974
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Thanks. Is it easy to get a ride after the game, or does it get crazy?",
+      "start": 24.395,
+      "end": 28.856
+    },
+    {
+      "index": 8,
+      "speaker": "Usher",
+      "text": "It gets pretty crowded. If you can walk a few blocks first, that's usually better.",
+      "start": 29.276,
+      "end": 34.471
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Good to know. I'm still learning event-night logistics here.",
+      "start": 34.891,
+      "end": 38.535
+    },
+    {
+      "index": 10,
+      "speaker": "Usher",
+      "text": "You'll figure it out.",
+      "start": 38.955,
+      "end": 40.504
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Thanks. Appreciate the heads-up.",
+      "start": 40.924,
+      "end": 44.181
+    }
+  ]
+}

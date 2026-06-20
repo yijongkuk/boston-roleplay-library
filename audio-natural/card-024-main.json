@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 48.758,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Staff",
+      "text": "Hi, are you here for a student ID?",
+      "start": 0,
+      "end": 4.712
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Yes. I'm a new PhD student, and I was told to come here after check-in.",
+      "start": 5.132,
+      "end": 9.698
+    },
+    {
+      "index": 2,
+      "speaker": "Staff",
+      "text": "Great. Can I see a photo ID?",
+      "start": 10.118,
+      "end": 13.081
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Sure, here's my passport.",
+      "start": 13.501,
+      "end": 15.395
+    },
+    {
+      "index": 4,
+      "speaker": "Staff",
+      "text": "Thanks. Can you confirm your full name?",
+      "start": 15.815,
+      "end": 18.874
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Jongkuk Yi. The spelling should match my passport.",
+      "start": 19.294,
+      "end": 23.755
+    },
+    {
+      "index": 6,
+      "speaker": "Staff",
+      "text": "Perfect. We'll take a quick photo. You can stand against the wall there.",
+      "start": 24.175,
+      "end": 29.224
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "No problem. Should I take my glasses off?",
+      "start": 29.644,
+      "end": 32.46
+    },
+    {
+      "index": 8,
+      "speaker": "Staff",
+      "text": "Either way is fine.",
+      "start": 32.88,
+      "end": 34.534
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Okay. Also, will this card give me building access right away?",
+      "start": 34.954,
+      "end": 39.907
+    },
+    {
+      "index": 10,
+      "speaker": "Staff",
+      "text": "Library access starts today. Department access may take a day or two.",
+      "start": 40.327,
+      "end": 45.763
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Good to know. Thanks for explaining that.",
+      "start": 46.183,
+      "end": 48.758
+    }
+  ]
+}

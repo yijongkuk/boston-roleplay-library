@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 45.732,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Security",
+      "text": "Hi. Can I help you?",
+      "start": 0,
+      "end": 3.644
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Hi, I'm a new PhD student, and I'm trying to find the architecture department.",
+      "start": 4.064,
+      "end": 8.243
+    },
+    {
+      "index": 2,
+      "speaker": "Security",
+      "text": "Do you have a student ID yet?",
+      "start": 8.663,
+      "end": 11.626
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Not yet. I just arrived, so I'm still getting set up.",
+      "start": 12.046,
+      "end": 15.585
+    },
+    {
+      "index": 4,
+      "speaker": "Security",
+      "text": "No problem. Which building are you looking for?",
+      "start": 16.005,
+      "end": 19.45
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "I believe it's the school of architecture building, but I'm not sure which entrance to use.",
+      "start": 19.87,
+      "end": 24.971
+    },
+    {
+      "index": 6,
+      "speaker": "Security",
+      "text": "Go through this courtyard, then take the second door on your right.",
+      "start": 25.391,
+      "end": 29.37
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Courtyard, second door on the right?",
+      "start": 29.79,
+      "end": 32.607
+    },
+    {
+      "index": 8,
+      "speaker": "Security",
+      "text": "Exactly. The department office is on the third floor.",
+      "start": 33.027,
+      "end": 36.032
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Great. Is there an elevator?",
+      "start": 36.452,
+      "end": 38.148
+    },
+    {
+      "index": 10,
+      "speaker": "Security",
+      "text": "Yes, just inside the entrance.",
+      "start": 38.568,
+      "end": 41.091
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Thanks. First day, so I'm trying not to look completely lost.",
+      "start": 41.511,
+      "end": 45.732
+    }
+  ]
+}

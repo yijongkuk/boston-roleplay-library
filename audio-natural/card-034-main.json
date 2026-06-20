@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 44.894,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Server",
+      "text": "Hi, just one tonight?",
+      "start": 0,
+      "end": 1.454
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Yes, just me. A small table is fine.",
+      "start": 1.874,
+      "end": 5.278
+    },
+    {
+      "index": 2,
+      "speaker": "Server",
+      "text": "No problem. Would you like to sit here or at the bar?",
+      "start": 5.698,
+      "end": 9.384
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Here is great, thanks. I'm still getting used to the neighborhood.",
+      "start": 9.804,
+      "end": 14.025
+    },
+    {
+      "index": 4,
+      "speaker": "Server",
+      "text": "First time in?",
+      "start": 14.445,
+      "end": 16.433
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Yeah. Do you have anything you recommend that's not too heavy?",
+      "start": 16.853,
+      "end": 20.781
+    },
+    {
+      "index": 6,
+      "speaker": "Server",
+      "text": "The grilled chicken bowl is popular, and the soup is good if you want something lighter.",
+      "start": 21.201,
+      "end": 26.688
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "I'll do the soup and maybe a side of rice if that's possible.",
+      "start": 27.108,
+      "end": 32.157
+    },
+    {
+      "index": 8,
+      "speaker": "Server",
+      "text": "Sure. Any allergies?",
+      "start": 32.577,
+      "end": 35.194
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "No allergies. Could you make it not too spicy?",
+      "start": 35.614,
+      "end": 38.62
+    },
+    {
+      "index": 10,
+      "speaker": "Server",
+      "text": "Absolutely.",
+      "start": 39.04,
+      "end": 40.735
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Thanks. And I may get the rest to go if I can't finish it.",
+      "start": 41.155,
+      "end": 44.894
+    }
+  ]
+}

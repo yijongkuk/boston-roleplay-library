@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 54.314,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Host",
+      "text": "Hey, you must be Jongkuk. Welcome.",
+      "start": 0,
+      "end": 3.299
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Yes, nice to meet you. Thanks for waiting. My flight took forever.",
+      "start": 3.719,
+      "end": 8.285
+    },
+    {
+      "index": 2,
+      "speaker": "Host",
+      "text": "No problem. Let me give you the quick version.",
+      "start": 8.705,
+      "end": 11.668
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "That would be great. I'm a little out of it after the flight.",
+      "start": 12.088,
+      "end": 17.137
+    },
+    {
+      "index": 4,
+      "speaker": "Host",
+      "text": "This key is for the front door, and this one is for your room. Wi-Fi is written on the card by the desk.",
+      "start": 17.557,
+      "end": 24.303
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Perfect. Is there anything I should know about laundry or trash?",
+      "start": 24.723,
+      "end": 28.556
+    },
+    {
+      "index": 6,
+      "speaker": "Host",
+      "text": "Laundry is downstairs. Trash and recycling are in the back of the building.",
+      "start": 28.976,
+      "end": 33.877
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Got it. And are there quiet hours I should be aware of?",
+      "start": 34.297,
+      "end": 37.836
+    },
+    {
+      "index": 8,
+      "speaker": "Host",
+      "text": "Around ten on weeknights. Nothing too strict, just be mindful.",
+      "start": 38.256,
+      "end": 43.399
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Of course. I may just shower and sleep tonight.",
+      "start": 43.819,
+      "end": 46.824
+    },
+    {
+      "index": 10,
+      "speaker": "Host",
+      "text": "Sounds like a plan. Let me know if you need anything.",
+      "start": 47.244,
+      "end": 50.543
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Thanks again. I really appreciate the easy check-in.",
+      "start": 50.963,
+      "end": 54.314
+    }
+  ]
+}

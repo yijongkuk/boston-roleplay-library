@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 47.911,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "You",
+      "text": "Hi, do you know where the gochujang is?",
+      "start": 0,
+      "end": 2.722
+    },
+    {
+      "index": 1,
+      "speaker": "Staff",
+      "text": "Korean sauces are in aisle three, near the soy sauce.",
+      "start": 3.142,
+      "end": 7.363
+    },
+    {
+      "index": 2,
+      "speaker": "You",
+      "text": "Great, thank you. I'm also looking for short-grain rice.",
+      "start": 7.783,
+      "end": 12.244
+    },
+    {
+      "index": 3,
+      "speaker": "Staff",
+      "text": "Big bags are in the back. Smaller bags are on the lower shelf.",
+      "start": 12.664,
+      "end": 18.194
+    },
+    {
+      "index": 4,
+      "speaker": "You",
+      "text": "Perfect. I'm setting up my kitchen, so I'm trying not to buy too much at once.",
+      "start": 18.614,
+      "end": 22.834
+    },
+    {
+      "index": 5,
+      "speaker": "Staff",
+      "text": "Makes sense.",
+      "start": 23.254,
+      "end": 25.39
+    },
+    {
+      "index": 6,
+      "speaker": "You",
+      "text": "Do you carry kimchi in smaller containers?",
+      "start": 25.81,
+      "end": 28.868
+    },
+    {
+      "index": 7,
+      "speaker": "Staff",
+      "text": "Yes, refrigerated section, right side.",
+      "start": 29.288,
+      "end": 34.87
+    },
+    {
+      "index": 8,
+      "speaker": "Cashier",
+      "text": "Do you need a bag?",
+      "start": 35.29,
+      "end": 37.091
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Yes, please. Just one bag should be fine.",
+      "start": 37.511,
+      "end": 40.809
+    },
+    {
+      "index": 10,
+      "speaker": "Cashier",
+      "text": "Receipt?",
+      "start": 41.229,
+      "end": 42.296
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Yes, thanks. This makes me feel a little more settled already.",
+      "start": 42.716,
+      "end": 47.911
+    }
+  ]
+}

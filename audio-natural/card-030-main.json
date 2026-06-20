@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 46.799,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "You",
+      "text": "Hey, sorry, did I hear the assignment correctly?",
+      "start": 0,
+      "end": 3.005
+    },
+    {
+      "index": 1,
+      "speaker": "Classmate",
+      "text": "The reading response? Yeah, it's due next Tuesday.",
+      "start": 3.425,
+      "end": 6.923
+    },
+    {
+      "index": 2,
+      "speaker": "You",
+      "text": "Next Tuesday, got it. Is it just a short response, or more like a formal paper?",
+      "start": 7.343,
+      "end": 12.002
+    },
+    {
+      "index": 3,
+      "speaker": "Classmate",
+      "text": "Short response. Around 500 words, I think.",
+      "start": 12.422,
+      "end": 16.014
+    },
+    {
+      "index": 4,
+      "speaker": "You",
+      "text": "Perfect. I missed that part because the professor moved pretty quickly.",
+      "start": 16.434,
+      "end": 20.267
+    },
+    {
+      "index": 5,
+      "speaker": "Classmate",
+      "text": "Same. I wrote it down because I knew I'd forget.",
+      "start": 20.687,
+      "end": 24.332
+    },
+    {
+      "index": 6,
+      "speaker": "You",
+      "text": "Smart. Are the readings already uploaded?",
+      "start": 24.752,
+      "end": 27.515
+    },
+    {
+      "index": 7,
+      "speaker": "Classmate",
+      "text": "Yeah, on the course site under Week One.",
+      "start": 27.935,
+      "end": 30.994
+    },
+    {
+      "index": 8,
+      "speaker": "You",
+      "text": "Thanks. I'm still learning where everything lives online.",
+      "start": 31.414,
+      "end": 35.153
+    },
+    {
+      "index": 9,
+      "speaker": "Classmate",
+      "text": "No worries. The course site is a little messy.",
+      "start": 35.573,
+      "end": 38.441
+    },
+    {
+      "index": 10,
+      "speaker": "You",
+      "text": "Would you be open to comparing notes sometime?",
+      "start": 38.861,
+      "end": 41.772
+    },
+    {
+      "index": 11,
+      "speaker": "Classmate",
+      "text": "Sure. Let's exchange emails after class.",
+      "start": 42.192,
+      "end": 46.799
+    }
+  ]
+}

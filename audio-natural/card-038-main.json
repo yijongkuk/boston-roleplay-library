@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 53.315,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Roommate",
+      "text": "Hey, do you have a minute to talk house stuff?",
+      "start": 0,
+      "end": 3.257
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Of course. I actually wanted to ask about the routine here.",
+      "start": 3.677,
+      "end": 7.174
+    },
+    {
+      "index": 2,
+      "speaker": "Roommate",
+      "text": "Cool. We try to keep the kitchen clean and not leave dishes overnight.",
+      "start": 7.594,
+      "end": 12.591
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "That makes sense. If I cook late after studio, I'll make sure to clean up before bed.",
+      "start": 13.011,
+      "end": 17.765
+    },
+    {
+      "index": 4,
+      "speaker": "Roommate",
+      "text": "Appreciate it. Also, we give each other a heads-up if we have guests over.",
+      "start": 18.185,
+      "end": 22.845
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Totally fair. I probably won't have guests often, but I'll let you know.",
+      "start": 23.265,
+      "end": 27.872
+    },
+    {
+      "index": 6,
+      "speaker": "Roommate",
+      "text": "Noise-wise, weeknights after ten are usually quiet.",
+      "start": 28.292,
+      "end": 33.151
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Got it. If I'm on a call with Korea late at night, I'll keep my voice down.",
+      "start": 33.571,
+      "end": 38.137
+    },
+    {
+      "index": 8,
+      "speaker": "Roommate",
+      "text": "Thanks. Time difference is rough, huh?",
+      "start": 38.557,
+      "end": 42.735
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Very. My family is basically awake when I'm supposed to be asleep.",
+      "start": 43.155,
+      "end": 47.867
+    },
+    {
+      "index": 10,
+      "speaker": "Roommate",
+      "text": "You'll find a rhythm.",
+      "start": 48.287,
+      "end": 49.837
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "I hope so. Thanks for talking it through.",
+      "start": 50.257,
+      "end": 53.315
+    }
+  ]
+}

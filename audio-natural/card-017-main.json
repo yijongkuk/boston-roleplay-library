@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 44.424,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "You",
+      "text": "Hi, sorry to bother you. My locker won't open.",
+      "start": 0,
+      "end": 3.539
+    },
+    {
+      "index": 1,
+      "speaker": "Staff",
+      "text": "No problem. Do you remember the code you set?",
+      "start": 3.959,
+      "end": 7.499
+    },
+    {
+      "index": 2,
+      "speaker": "You",
+      "text": "I thought I did, but it keeps rejecting it.",
+      "start": 7.919,
+      "end": 11.322
+    },
+    {
+      "index": 3,
+      "speaker": "Staff",
+      "text": "Which locker number?",
+      "start": 11.742,
+      "end": 13.878
+    },
+    {
+      "index": 4,
+      "speaker": "You",
+      "text": "Number 42, right by the showers.",
+      "start": 14.298,
+      "end": 17.114
+    },
+    {
+      "index": 5,
+      "speaker": "Staff",
+      "text": "Okay, I'll come take a look. Do you have an ID with you?",
+      "start": 17.534,
+      "end": 21.859
+    },
+    {
+      "index": 6,
+      "speaker": "You",
+      "text": "My wallet is inside the locker, but I can show you my phone and membership email.",
+      "start": 22.279,
+      "end": 27.568
+    },
+    {
+      "index": 7,
+      "speaker": "Staff",
+      "text": "That works. Happens all the time.",
+      "start": 27.988,
+      "end": 30.418
+    },
+    {
+      "index": 8,
+      "speaker": "You",
+      "text": "Thanks. I was worried I had done something wrong.",
+      "start": 30.838,
+      "end": 33.948
+    },
+    {
+      "index": 9,
+      "speaker": "Staff",
+      "text": "No, these locks are just picky.",
+      "start": 34.368,
+      "end": 37.908
+    },
+    {
+      "index": 10,
+      "speaker": "You",
+      "text": "Good to know. I appreciate the help.",
+      "start": 38.328,
+      "end": 41.386
+    },
+    {
+      "index": 11,
+      "speaker": "Staff",
+      "text": "Of course.",
+      "start": 41.806,
+      "end": 44.424
+    }
+  ]
+}

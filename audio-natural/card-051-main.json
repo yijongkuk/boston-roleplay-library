@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 44.026,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Staff",
+      "text": "Hi, what movie are you seeing?",
+      "start": 0,
+      "end": 2.335
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "The 7:30 showing of the new drama, please.",
+      "start": 2.755,
+      "end": 6.054
+    },
+    {
+      "index": 2,
+      "speaker": "Staff",
+      "text": "Any seat preference?",
+      "start": 6.474,
+      "end": 8.997
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Somewhere in the middle, not too close to the screen.",
+      "start": 9.417,
+      "end": 12.528
+    },
+    {
+      "index": 4,
+      "speaker": "Staff",
+      "text": "How about row F, seat 8?",
+      "start": 12.948,
+      "end": 15.566
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "That sounds good. Does this showing have captions by any chance?",
+      "start": 15.986,
+      "end": 19.965
+    },
+    {
+      "index": 6,
+      "speaker": "Staff",
+      "text": "Open captions, no. Closed caption devices are available at guest services.",
+      "start": 20.385,
+      "end": 25.528
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Good to know. I'll try without one today.",
+      "start": 25.948,
+      "end": 29.351
+    },
+    {
+      "index": 8,
+      "speaker": "Staff",
+      "text": "Anything from concessions?",
+      "start": 29.771,
+      "end": 31.854
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Small popcorn and water, please.",
+      "start": 32.274,
+      "end": 35.038
+    },
+    {
+      "index": 10,
+      "speaker": "Staff",
+      "text": "You can tap here.",
+      "start": 35.458,
+      "end": 37.258
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Thanks. Which theater is it in?",
+      "start": 37.678,
+      "end": 40.547
+    },
+    {
+      "index": 12,
+      "speaker": "Staff",
+      "text": "Theater four, down the hall on the right.",
+      "start": 40.967,
+      "end": 44.026
+    }
+  ]
+}

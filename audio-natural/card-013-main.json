@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 52.236,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Manager",
+      "text": "Hi there. What can I help you with?",
+      "start": 0,
+      "end": 2.523
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Hi, I just moved in, and I wanted to ask a few basic building questions.",
+      "start": 2.943,
+      "end": 7.698
+    },
+    {
+      "index": 2,
+      "speaker": "Manager",
+      "text": "Sure. Go ahead.",
+      "start": 8.118,
+      "end": 10.201
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "First, where do packages usually get delivered? I don't want to miss anything important.",
+      "start": 10.621,
+      "end": 15.574
+    },
+    {
+      "index": 4,
+      "speaker": "Manager",
+      "text": "Most packages go to the mailroom. You'll get an email when one arrives.",
+      "start": 15.994,
+      "end": 20.267
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Great. And where are trash and recycling?",
+      "start": 20.687,
+      "end": 24.279
+    },
+    {
+      "index": 6,
+      "speaker": "Manager",
+      "text": "Trash is in the back room, recycling is the blue bin next to it.",
+      "start": 24.699,
+      "end": 29.16
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Got it. If I have a maintenance issue, should I call or submit a request online?",
+      "start": 29.58,
+      "end": 33.906
+    },
+    {
+      "index": 8,
+      "speaker": "Manager",
+      "text": "Online is best. If it's urgent, call the office.",
+      "start": 34.326,
+      "end": 37.771
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Perfect. One last thing - if the heat or hot water acts up, is that considered urgent?",
+      "start": 38.191,
+      "end": 43.678
+    },
+    {
+      "index": 10,
+      "speaker": "Manager",
+      "text": "Hot water, yes. Heat depends on the season, but report it right away.",
+      "start": 44.098,
+      "end": 48.705
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Thanks. That's exactly what I needed.",
+      "start": 49.125,
+      "end": 52.236
+    }
+  ]
+}

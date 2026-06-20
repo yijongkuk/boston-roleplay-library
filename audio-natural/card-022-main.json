@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 61.405,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Advisor",
+      "text": "Hi, come on in. How can I help?",
+      "start": 0,
+      "end": 3.058
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Hi, I'm a new international PhD student. I wanted to make sure I'm not missing any required steps.",
+      "start": 3.478,
+      "end": 9.93
+    },
+    {
+      "index": 2,
+      "speaker": "Advisor",
+      "text": "Good idea. Have you checked in with your I-20 and passport yet?",
+      "start": 10.35,
+      "end": 14.812
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "I have them with me. Should I upload copies somewhere, or do you need to see them in person?",
+      "start": 15.232,
+      "end": 20.814
+    },
+    {
+      "index": 4,
+      "speaker": "Advisor",
+      "text": "We'll verify them here, and then you'll update your local address online.",
+      "start": 21.234,
+      "end": 25.695
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Okay. I'm in temporary housing for now. Is that address okay, or should I wait until I move?",
+      "start": 26.115,
+      "end": 32.378
+    },
+    {
+      "index": 6,
+      "speaker": "Advisor",
+      "text": "Use the temporary address now, then update it when you move.",
+      "start": 32.798,
+      "end": 37.993
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "Got it. I also wanted to ask about health insurance. Is enrollment automatic?",
+      "start": 38.413,
+      "end": 43.273
+    },
+    {
+      "index": 8,
+      "speaker": "Advisor",
+      "text": "For most full-time students, yes, but double-check your student portal.",
+      "start": 43.693,
+      "end": 48.499
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Perfect. And orientation - is there anything I should do before attending?",
+      "start": 48.919,
+      "end": 52.993
+    },
+    {
+      "index": 10,
+      "speaker": "Advisor",
+      "text": "Bring your laptop and any questions you have.",
+      "start": 53.413,
+      "end": 57.298
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Great. Thanks for helping me get my footing.",
+      "start": 57.718,
+      "end": 61.405
+    }
+  ]
+}

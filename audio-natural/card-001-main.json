@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 47.354,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Officer",
+      "text": "Evening. What brings you to the United States?",
+      "start": 0,
+      "end": 2.722
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "I just got in from Seoul. I'm starting a PhD program in architecture here in Boston.",
+      "start": 3.142,
+      "end": 8.483
+    },
+    {
+      "index": 2,
+      "speaker": "Officer",
+      "text": "Which school will you be attending?",
+      "start": 8.903,
+      "end": 11.332
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "I'll be studying at my university in Boston. I have my admission documents here if you need them.",
+      "start": 11.752,
+      "end": 17.387
+    },
+    {
+      "index": 4,
+      "speaker": "Officer",
+      "text": "How long do you expect to stay?",
+      "start": 17.807,
+      "end": 20.037
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "The program should take about four to five years.",
+      "start": 20.457,
+      "end": 23.996
+    },
+    {
+      "index": 6,
+      "speaker": "Officer",
+      "text": "Where are you staying tonight?",
+      "start": 24.416,
+      "end": 26.457
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "I booked a temporary place for the first couple of weeks while I get settled. After that, I'll move into long-term housing.",
+      "start": 26.877,
+      "end": 33.14
+    },
+    {
+      "index": 8,
+      "speaker": "Officer",
+      "text": "And how will you support yourself?",
+      "start": 33.56,
+      "end": 35.748
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Through school funding and personal savings. I can show the paperwork if you'd like.",
+      "start": 36.168,
+      "end": 41.51
+    },
+    {
+      "index": 10,
+      "speaker": "Officer",
+      "text": "That's fine. Welcome to Boston.",
+      "start": 41.93,
+      "end": 44.599
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Thank you. Have a good night.",
+      "start": 45.019,
+      "end": 47.354
+    }
+  ]
+}

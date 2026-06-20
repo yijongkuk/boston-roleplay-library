@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 50.31,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "You",
+      "text": "Hi, sorry, I think I'm doing something wrong with the printer.",
+      "start": 0,
+      "end": 3.739
+    },
+    {
+      "index": 1,
+      "speaker": "Staff",
+      "text": "What are you trying to print?",
+      "start": 4.159,
+      "end": 5.959
+    },
+    {
+      "index": 2,
+      "speaker": "You",
+      "text": "A PDF for class. I sent it from my laptop, but it isn't showing up in the queue.",
+      "start": 6.379,
+      "end": 11.186
+    },
+    {
+      "index": 3,
+      "speaker": "Staff",
+      "text": "Are you logged in with your school account?",
+      "start": 11.606,
+      "end": 14.328
+    },
+    {
+      "index": 4,
+      "speaker": "You",
+      "text": "I thought I was, but maybe I'm using my personal email.",
+      "start": 14.748,
+      "end": 18.926
+    },
+    {
+      "index": 5,
+      "speaker": "Staff",
+      "text": "That would do it. Try signing out and back in with your university login.",
+      "start": 19.346,
+      "end": 24.876
+    },
+    {
+      "index": 6,
+      "speaker": "You",
+      "text": "Okay. Also, how do I choose black and white instead of color?",
+      "start": 25.296,
+      "end": 29.663
+    },
+    {
+      "index": 7,
+      "speaker": "Staff",
+      "text": "Open print settings before you send the job. Color costs more.",
+      "start": 30.083,
+      "end": 35.812
+    },
+    {
+      "index": 8,
+      "speaker": "You",
+      "text": "Good catch. I definitely don't need color for this.",
+      "start": 36.232,
+      "end": 39.918
+    },
+    {
+      "index": 9,
+      "speaker": "Staff",
+      "text": "Once it appears in the queue, tap your ID here.",
+      "start": 40.338,
+      "end": 43.689
+    },
+    {
+      "index": 10,
+      "speaker": "You",
+      "text": "Got it. Thanks for walking me through it.",
+      "start": 44.109,
+      "end": 46.486
+    },
+    {
+      "index": 11,
+      "speaker": "Staff",
+      "text": "No problem. It trips everyone up the first time.",
+      "start": 46.906,
+      "end": 50.31
+    }
+  ]
+}

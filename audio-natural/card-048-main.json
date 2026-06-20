@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 51.913,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Usher",
+      "text": "Can I see your ticket?",
+      "start": 0,
+      "end": 2.816
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Sure, here it is. I think I'm in section 23, but I'm not totally sure where to go.",
+      "start": 3.236,
+      "end": 9.301
+    },
+    {
+      "index": 2,
+      "speaker": "Usher",
+      "text": "You're on the right level. Go left, then up the stairs.",
+      "start": 9.721,
+      "end": 15.156
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "Great, thank you. This is my first baseball game in Boston.",
+      "start": 15.576,
+      "end": 20.33
+    },
+    {
+      "index": 4,
+      "speaker": "Fan",
+      "text": "First Sox game?",
+      "start": 20.75,
+      "end": 24.583
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "Yeah. I know the basic rules, but I'm still learning the flow.",
+      "start": 25.003,
+      "end": 28.795
+    },
+    {
+      "index": 6,
+      "speaker": "Fan",
+      "text": "You'll pick it up. Half the fun is just being here.",
+      "start": 29.215,
+      "end": 34.504
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "The atmosphere is already worth it.",
+      "start": 34.924,
+      "end": 37.499
+    },
+    {
+      "index": 8,
+      "speaker": "Fan",
+      "text": "Wait until the crowd gets going.",
+      "start": 37.919,
+      "end": 41.177
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "Who should I keep an eye on today?",
+      "start": 41.597,
+      "end": 43.932
+    },
+    {
+      "index": 10,
+      "speaker": "Fan",
+      "text": "Watch the starting pitcher and the guy batting third.",
+      "start": 44.352,
+      "end": 48.771
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Got it. I appreciate the crash course.",
+      "start": 49.191,
+      "end": 51.913
+    }
+  ]
+}

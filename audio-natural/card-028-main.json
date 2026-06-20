@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "silenceMs": 420,
+  "sampleRate": 24000,
+  "duration": 61.659,
+  "segments": [
+    {
+      "index": 0,
+      "speaker": "Professor",
+      "text": "Come in. It's nice to finally meet you in person.",
+      "start": 0,
+      "end": 3.592
+    },
+    {
+      "index": 1,
+      "speaker": "You",
+      "text": "Thank you, Professor. I'm glad to be here. I've been looking forward to this.",
+      "start": 4.012,
+      "end": 8.913
+    },
+    {
+      "index": 2,
+      "speaker": "Professor",
+      "text": "How was the move to Boston?",
+      "start": 9.333,
+      "end": 12.202
+    },
+    {
+      "index": 3,
+      "speaker": "You",
+      "text": "A little overwhelming, but manageable. I'm still finding my rhythm.",
+      "start": 12.622,
+      "end": 16.549
+    },
+    {
+      "index": 4,
+      "speaker": "Professor",
+      "text": "That's completely normal. Tell me a bit about your research interests.",
+      "start": 16.969,
+      "end": 23.034
+    },
+    {
+      "index": 5,
+      "speaker": "You",
+      "text": "I'm interested in housing systems, urban everyday life, and how architecture can respond to long-term social change.",
+      "start": 23.454,
+      "end": 30.2
+    },
+    {
+      "index": 6,
+      "speaker": "Professor",
+      "text": "That's a broad area. What questions are you carrying into the program?",
+      "start": 30.62,
+      "end": 35.668
+    },
+    {
+      "index": 7,
+      "speaker": "You",
+      "text": "I'm trying to understand how design decisions scale - from a room, to a building, to a neighborhood.",
+      "start": 36.088,
+      "end": 42.006
+    },
+    {
+      "index": 8,
+      "speaker": "Professor",
+      "text": "Good. We'll help you sharpen that.",
+      "start": 42.426,
+      "end": 45.83
+    },
+    {
+      "index": 9,
+      "speaker": "You",
+      "text": "I appreciate that. Also, my spoken English is still catching up, so I may ask for clarification sometimes.",
+      "start": 46.25,
+      "end": 52.807
+    },
+    {
+      "index": 10,
+      "speaker": "Professor",
+      "text": "Please do. Clarity matters more than speed.",
+      "start": 53.227,
+      "end": 57.647
+    },
+    {
+      "index": 11,
+      "speaker": "You",
+      "text": "Thank you. That helps me feel more comfortable starting out.",
+      "start": 58.067,
+      "end": 61.659
+    }
+  ]
+}
